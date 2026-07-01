@@ -258,12 +258,17 @@ def show_plot(figure: go.Figure) -> None:
     title = re.sub(r"<[^>]+>", "", str(title))
     slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-") or "dashboard-chart"
     content_hash = hashlib.sha256(figure.to_json().encode("utf-8")).hexdigest()[:8]
-    figure.write_image(
-        FIGURES / f"{slug}-{content_hash}.png",
-        width=1600,
-        height=int(figure.layout.height or 900),
-        scale=2,
-    )
+    try:
+        figure.write_image(
+            FIGURES / f"{slug}-{content_hash}.png",
+            width=1600,
+            height=int(figure.layout.height or 900),
+            scale=2,
+        )
+    except RuntimeError:
+        # Kaleido requires Chrome, which may be unavailable on hosted deployments.
+        # Figures can still be generated locally and committed to the repository.
+        pass
 
     st.plotly_chart(
         figure,
