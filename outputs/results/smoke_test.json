@@ -1,0 +1,82 @@
+{
+  "section_id": "executive_summary",
+  "extractor_model": "qwen2.5:3b",
+  "evaluator_model": "llama3.2",
+  "summary": {
+    "chapter": "Executive Summary",
+    "summary": "Timor-Leste faces significant deprivations, with 11% of men experiencing well-being deprivations compared to 9% of women. Over 82% of young people do not have jobs or are studying/training, indicating a large share of youth are idle. The government should invest in education and training, allocating at least 25% of the budget for these purposes by 2050.",
+    "key_points": [
+      "A gender gap exists in well-being deprivations with men experiencing higher levels than women",
+      "Youth unemployment is high, with over 82% not having jobs or studying/training at the time of survey",
+      "The private sector provides employment to only 5% of the workforce",
+      "Education and training should be prioritized by the government through budget allocation"
+    ],
+    "source_pages": [
+      16,
+      19
+    ]
+  },
+  "themes": {
+    "classifications": [
+      {
+        "chunk_id": "executive_summary_001",
+        "themes": [
+          "education",
+          "inequality"
+        ]
+      },
+      {
+        "chunk_id": "executive_summary_002",
+        "themes": [
+          "employment",
+          "education",
+          "gender"
+        ]
+      }
+    ]
+  },
+  "evaluation": {
+    "task": "smoke-test executive summary",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 4,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "revise",
+    "justification": "The output accurately summarizes the main findings from the verified source evidence. The key points listed are directly supported by the report, and the summary is within the required word limit of fewer than 100 words. However, the output could be improved by providing more specific details about the proposed budget allocation for education and training, as well as the expected outcomes of such investments.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": true
+  },
+  "calls": [
+    {
+      "task": "smoke:summary",
+      "model": "qwen2.5:3b",
+      "elapsed_seconds": 77.2856,
+      "prompt_eval_count": 792,
+      "eval_count": 198,
+      "cached": true,
+      "valid_on_first_attempt": true
+    },
+    {
+      "task": "smoke:themes",
+      "model": "qwen2.5:3b",
+      "elapsed_seconds": 76.7677,
+      "prompt_eval_count": 1516,
+      "eval_count": 71,
+      "cached": true,
+      "valid_on_first_attempt": true
+    },
+    {
+      "task": "smoke:evaluate",
+      "model": "llama3.2",
+      "elapsed_seconds": 68.6183,
+      "prompt_eval_count": 1074,
+      "eval_count": 141,
+      "cached": true,
+      "valid_on_first_attempt": true
+    }
+  ]
+}

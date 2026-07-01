@@ -1,0 +1,200 @@
+[
+  {
+    "task": "chapter summary: Executive Summary",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 4,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately summarizes the main findings of the report, including the high levels of well-being deprivations among men and women, youth unemployment, and the need for education and training investments. The key points listed are also consistent with the report's content. However, the summary word count is 56, which exceeds the required limit of fewer than 100 words.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "executive_summary"
+  },
+  {
+    "task": "chapter summary: Planning the Opportunities for Youth",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately summarizes the main findings and key points from the verified source evidence. The summary is within the required word limit of fewer than 100 words. The source pages are correctly cited, and the section ID matches the chapter title. However, some minor errors in formatting and punctuation were noticed, but they do not affect the overall accuracy of the output.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_1"
+  },
+  {
+    "task": "chapter summary: Youth Well-Being and the Demographic Dividend",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output provides a clear and concise summary of the chapter, aligning with the required items. The source pages are correctly cited, and the word count is accurate. However, some minor factual limitations exist in the presentation of data and statistics.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_2"
+  },
+  {
+    "task": "chapter summary: The Economic Inclusion of Youth",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output provides a clear and concise summary of the chapter, aligning with the verified source evidence. The key points are accurately represented, and the summary is within the word limit. However, some minor errors in numerical values were found, but they do not affect the overall accuracy of the output.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_3"
+  },
+  {
+    "task": "chapter summary: Education and Training in the New Economy",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately summarizes the chapter's main findings and key points, aligning with the verified source evidence. The summary is within the required word limit of fewer than 100 words.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_4"
+  },
+  {
+    "task": "chapter summary: The Fourth Industrial Revolution: Embracing Technology",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 3,
+      "consistency": 4,
+      "format_compliance": 4
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "revise",
+    "justification": "The output provides a clear summary of the challenges faced by Timor-Leste in adopting a knowledge-based economy. However, there are some minor factual limitations. The ranking on the Network Readiness Index is not explicitly stated as 134th globally, but rather as 143rd with a value of 5.01. Additionally, the word count limit was applied, which resulted in a summary that is 66 words long, whereas the required word limit is fewer than 100 words. The output also lacks specific page citations for some sections, such as the section on social enterprises. Furthermore, the key points listed are not entirely accurate, with one point being missing and another point being partially incorrect. Despite these minor issues, the output provides a reliable summary of the challenges faced by Timor-Leste in adopting a knowledge-based economy.",
+    "model_verdict": "revise",
+    "verdict_policy_applied": false,
+    "policy_reason": "One or more scores are below 4 or evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_5"
+  },
+  {
+    "task": "chapter summary: Public Investment in Youth",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 4,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately summarizes the chapter's main findings and recommendations. The scores are mostly excellent, with factual alignment being the only area where a score of 4 is given due to minor non-factual limitations. The output does not contain any unsupported claims or missing items.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "chapter_6"
+  },
+  {
+    "task": "multi-label theme classification sample",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 4,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output is reliable with only minor non-factual limitations. The classification of themes is accurate and comprehensive. The format compliance is perfect, and all required items are present. No unsupported claims or missing items were found.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "theme_sample"
+  },
+  {
+    "task": "core numerical indicator extraction",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately reflects the verified source evidence, with no discrepancies or unsupported claims. The indicators are correctly formatted and comply with the required items.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "source_regex_validator",
+    "output_id": "indicators"
+  },
+  {
+    "task": "development strengths and challenges",
+    "scores": {
+      "factual_alignment": 5,
+      "completeness": 4,
+      "consistency": 4,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately presents the strengths and challenges of Timor-Leste's development as per the verified source evidence. The classification of achievements and challenges is consistent with the report, and all required items are included. However, some minor non-factual limitations exist in the explanations provided for certain achievements.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "strengths_challenges"
+  },
+  {
+    "task": "time-series extraction",
+    "scores": {
+      "factual_alignment": 4,
+      "completeness": 5,
+      "consistency": 5,
+      "format_compliance": 5
+    },
+    "unsupported_claims": [],
+    "missing_items": [],
+    "verdict": "pass",
+    "justification": "The output accurately extracts the time series data from the provided source evidence. The extracted data is complete and consistent with the original table. However, there are some minor formatting issues with the unit labels, which could be improved for better compliance with the required format.",
+    "model_verdict": "pass",
+    "verdict_policy_applied": false,
+    "policy_reason": "All scores are at least 4 and no evidence issues were listed.",
+    "evaluated_model": "qwen2.5:3b",
+    "output_id": "time_series"
+  }
+]

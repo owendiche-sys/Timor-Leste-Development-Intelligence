@@ -1,0 +1,30 @@
+[
+  {
+    "theme": "education",
+    "count": 40
+  },
+  {
+    "theme": "health",
+    "count": 35
+  },
+  {
+    "theme": "inequality",
+    "count": 38
+  },
+  {
+    "theme": "economy",
+    "count": 40
+  },
+  {
+    "theme": "gender",
+    "count": 40
+  },
+  {
+    "theme": "climate",
+    "count": 32
+  },
+  {
+    "theme": "employment",
+    "count": 39
+  }
+]

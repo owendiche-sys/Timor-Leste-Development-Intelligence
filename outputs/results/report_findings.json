@@ -1,0 +1,41 @@
+{
+  "report_title": "Youth Development and Economic Transformation in Timor-Leste",
+  "validation_method": "source_verified",
+  "key_results": [
+    {
+      "finding": "About 10% of youth aged 15–34 experience well-being deprivation, including 11% of men and 9% of women.",
+      "source_pages": [
+        17
+      ],
+      "significance": "The result identifies a measurable gender difference in youth well-being deprivation."
+    },
+    {
+      "finding": "At the time of the survey, 82% of youth did not have jobs; separately, 46% were studying or undergoing training.",
+      "source_pages": [
+        18
+      ],
+      "significance": "The two reported measures show limited employment alongside substantial participation in education or training."
+    },
+    {
+      "finding": "The private sector provides employment to only 5% of the workforce.",
+      "source_pages": [
+        19
+      ],
+      "significance": "The small private-sector employment share highlights limited formal employment opportunities."
+    },
+    {
+      "finding": "The Government should consider allocating 25% of its budget to education and training.",
+      "source_pages": [
+        20
+      ],
+      "significance": "The recommendation links public investment to improved access to quality education and training."
+    },
+    {
+      "finding": "Timor-Leste has taken steps towards its goal of upper-middle-income status, while youth employment and skills remain major challenges.",
+      "source_pages": [
+        62
+      ],
+      "significance": "Progress towards the national income goal depends on expanding youth skills and productive employment."
+    }
+  ]
+}

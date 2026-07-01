@@ -1,0 +1,1676 @@
+[
+  {
+    "table_id": "p037_t01",
+    "pdf_page": 37,
+    "rows": [
+      [
+        "Country, region",
+        "Total dependency ratio (No. of children and older persons per 100 persons of working age)"
+      ]
+    ]
+  },
+  {
+    "table_id": "p037_t02",
+    "pdf_page": 37,
+    "rows": [
+      [
+        "Thailand",
+        "39"
+      ]
+    ]
+  },
+  {
+    "table_id": "p037_t03",
+    "pdf_page": 37,
+    "rows": [
+      [
+        "South Asia",
+        "55"
+      ],
+      [
+        "Timor-Leste",
+        "82"
+      ]
+    ]
+  },
+  {
+    "table_id": "p039_t01",
+    "pdf_page": 39,
+    "rows": [
+      [
+        "Policy scenario",
+        "Under 5",
+        null,
+        "Infants, 0–1",
+        null,
+        "Maternal",
+        null
+      ],
+      [
+        null,
+        "2015–2030",
+        "2015–2050",
+        "2015–2030",
+        "2015–2050",
+        "2015–2030",
+        "2015–2050"
+      ]
+    ]
+  },
+  {
+    "table_id": "p039_t02",
+    "pdf_page": 39,
+    "rows": [
+      [
+        "2. 1 + education",
+        "4,434",
+        "20,247",
+        "2,867",
+        "14,101",
+        "284",
+        "1,341"
+      ]
+    ]
+  },
+  {
+    "table_id": "p040_t01",
+    "pdf_page": 40,
+    "rows": [
+      [
+        "Scenario",
+        "2015",
+        "2020",
+        "2025",
+        "2030",
+        "2035",
+        "2040",
+        "2045",
+        "2050"
+      ]
+    ]
+  },
+  {
+    "table_id": "p040_t02",
+    "pdf_page": 40,
+    "rows": [
+      [
+        "2. 1 + education",
+        "1.20",
+        "1.26",
+        "1.34",
+        "1.44",
+        "1.56",
+        "1.68",
+        "1.81",
+        "1.97"
+      ]
+    ]
+  },
+  {
+    "table_id": "p043_t01",
+    "pdf_page": 43,
+    "rows": [
+      [
+        "HDI",
+        "Sample countries",
+        "Level of human development"
+      ]
+    ]
+  },
+  {
+    "table_id": "p043_t02",
+    "pdf_page": 43,
+    "rows": [
+      [
+        "0.71",
+        "Belize, Dominican Republic, Jamaica, Tonga",
+        "High"
+      ]
+    ]
+  },
+  {
+    "table_id": "p043_t03",
+    "pdf_page": 43,
+    "rows": [
+      [
+        "0.54",
+        "Kenya, Nepal",
+        "Low"
+      ]
+    ]
+  },
+  {
+    "table_id": "p046_t01",
+    "pdf_page": 46,
+    "rows": [
+      [
+        "Domains of well-being",
+        "Subdomains and indicators or variables"
+      ]
+    ]
+  },
+  {
+    "table_id": "p046_t02",
+    "pdf_page": 46,
+    "rows": [
+      [
+        "Psychological and emotional health",
+        "Sense of mental state and stress levels, experience of anxiety or depression, emotional experiences, such as suicidal thoughts, feeling helpless, or hopeless, losing sleep over worry, feeling incapable of making decisions"
+      ]
+    ]
+  },
+  {
+    "table_id": "p046_t03",
+    "pdf_page": 46,
+    "rows": [
+      [
+        "Culture",
+        "Languages, artisan skills such as carving or tais weaving, a sense of identity, spirituality, cultural ties and family influences, participation in local customs and traditionsa"
+      ],
+      [
+        "Community vitality",
+        "Community relations, sense of trust and belonging, social support and voluntarism, perceived security"
+      ],
+      [
+        "Governance",
+        "Political participation and rights, perceptions of available government services and access for all, satisfaction with government performance, such as the quality and affordability of education, health, or training opportunities, confidence in political leaders and government institutions to respond to public needs, perceptions of judicial independence, transparency, and accountability"
+      ],
+      [
+        "Ecological stewardship",
+        "Value of the environment for livelihoods, spirituality, culture and leisure, awareness of environmental concerns, environmental responsibility"
+      ],
+      [
+        "Living standards",
+        "Employment status, average income, income dependency, perception of relative income status, experience of financial shocks and anticipation of future economic status"
+      ]
+    ]
+  },
+  {
+    "table_id": "p049_t01",
+    "pdf_page": 49,
+    "rows": [
+      [
+        "Indicator",
+        "Moderate to extensive insufficiency",
+        "Neither sufficient, nor insufficient",
+        "Moderate to extensive sufficiency"
+      ]
+    ]
+  },
+  {
+    "table_id": "p049_t02",
+    "pdf_page": 49,
+    "rows": [
+      [
+        "Women",
+        "9",
+        "15",
+        "76"
+      ]
+    ]
+  },
+  {
+    "table_id": "p049_t03",
+    "pdf_page": 49,
+    "rows": [
+      [
+        "Rural",
+        "8",
+        "17",
+        "75"
+      ]
+    ]
+  },
+  {
+    "table_id": "p049_t04",
+    "pdf_page": 49,
+    "rows": [
+      [
+        "Ages 25–34",
+        "8",
+        "16",
+        "76"
+      ]
+    ]
+  },
+  {
+    "table_id": "p056_t01",
+    "pdf_page": 56,
+    "rows": [
+      [
+        "Domain",
+        "Share achieving sufficiency, %"
+      ]
+    ]
+  },
+  {
+    "table_id": "p056_t02",
+    "pdf_page": 56,
+    "rows": [
+      [
+        "Psychological health",
+        "19"
+      ]
+    ]
+  },
+  {
+    "table_id": "p056_t03",
+    "pdf_page": 56,
+    "rows": [
+      [
+        "Culture",
+        "29"
+      ],
+      [
+        "Community vitality",
+        "3"
+      ],
+      [
+        "Governance",
+        "44"
+      ],
+      [
+        "Ecological stewardship (environment)",
+        "86"
+      ],
+      [
+        "Standard of living",
+        "20"
+      ]
+    ]
+  },
+  {
+    "table_id": "p058_t01",
+    "pdf_page": 58,
+    "rows": [
+      [
+        "Index",
+        "Men and women combined",
+        "Men",
+        "Women"
+      ]
+    ]
+  },
+  {
+    "table_id": "p058_t02",
+    "pdf_page": 58,
+    "rows": [
+      [
+        "HDI",
+        "0.585",
+        "0.611",
+        "0.553"
+      ]
+    ]
+  },
+  {
+    "table_id": "p058_t03",
+    "pdf_page": 58,
+    "rows": [
+      [
+        "Youth (ages 15–34)",
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p058_t04",
+    "pdf_page": 58,
+    "rows": [
+      [
+        "GDI (HDI of women/men)",
+        "0.914",
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p058_t05",
+    "pdf_page": 58,
+    "rows": [
+      [
+        "Total population",
+        "0.508",
+        "0.690",
+        "0.569"
+      ]
+    ]
+  },
+  {
+    "table_id": "p068_t01",
+    "pdf_page": 68,
+    "rows": [
+      [
+        "Age group",
+        "Rural Areas",
+        null,
+        "Urban areas",
+        null
+      ],
+      [
+        null,
+        "2010",
+        "2015",
+        "2010",
+        "2015"
+      ]
+    ]
+  },
+  {
+    "table_id": "p068_t02",
+    "pdf_page": 68,
+    "rows": [
+      [
+        "20–24",
+        "17",
+        "8",
+        "33",
+        "24"
+      ]
+    ]
+  },
+  {
+    "table_id": "p068_t03",
+    "pdf_page": 68,
+    "rows": [
+      [
+        "30–34",
+        "3",
+        "3",
+        "11",
+        "7"
+      ]
+    ]
+  },
+  {
+    "table_id": "p069_t01",
+    "pdf_page": 69,
+    "rows": [
+      [
+        "Age",
+        "Employee",
+        "Employer",
+        "Own- account worker",
+        "Contributing family worker",
+        "Total employed"
+      ]
+    ]
+  },
+  {
+    "table_id": "p069_t02",
+    "pdf_page": 69,
+    "rows": [
+      [
+        "15–24",
+        "3.74",
+        "0.29",
+        "4.03",
+        "4.52",
+        "12.59"
+      ]
+    ]
+  },
+  {
+    "table_id": "p069_t03",
+    "pdf_page": 69,
+    "rows": [
+      [
+        "Women",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p069_t04",
+    "pdf_page": 69,
+    "rows": [
+      [
+        "25–34",
+        "9.91",
+        "0.13",
+        "9.79",
+        "5.65",
+        "25.47"
+      ]
+    ]
+  },
+  {
+    "table_id": "p070_t01",
+    "pdf_page": 70,
+    "rows": [
+      [
+        "Employment status",
+        "Primary",
+        "Pre- secondary",
+        "Secondary",
+        "Polytechnic, diploma",
+        "University",
+        "Non-formal"
+      ]
+    ]
+  },
+  {
+    "table_id": "p070_t02",
+    "pdf_page": 70,
+    "rows": [
+      [
+        "Men",
+        "25",
+        "33",
+        "49",
+        "73",
+        "72",
+        "41"
+      ]
+    ]
+  },
+  {
+    "table_id": "p070_t03",
+    "pdf_page": 70,
+    "rows": [
+      [
+        "Self-employed or household enterprise",
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p070_t04",
+    "pdf_page": 70,
+    "rows": [
+      [
+        "Women",
+        "24",
+        "20",
+        "13",
+        "10",
+        "5",
+        "25"
+      ]
+    ]
+  },
+  {
+    "table_id": "p091_t01",
+    "pdf_page": 91,
+    "rows": [
+      [
+        "21st-Century Skills Foundational Competencies Character Literacies Qualities How students How students apply approach complex How students approach core skills to challenges their changing everyday tasks environment 1 7 11 Literacy Critical thinking/problem-solving Curiosity 2 8 12 Numeracy Creativity Initiative 3 9 13 Scientific literacy Communication Persistence/grit 4 10 14 ICT literacy Collaboration Adaptability 5 Financial literacy 15 Leadership 6 16 Cultural and civic literacy Social and cultural awareness",
+        null,
+        null
+      ],
+      [
+        null,
+        "Lifelong Learning",
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p091_t02",
+    "pdf_page": 91,
+    "rows": [
+      [
+        "1 Literacy"
+      ],
+      [
+        "2 Numeracy"
+      ],
+      [
+        "3 Scientific literacy"
+      ],
+      [
+        "4 ICT literacy"
+      ],
+      [
+        "5 Financial literacy"
+      ],
+      [
+        "6 Cultural and civic literacy"
+      ]
+    ]
+  },
+  {
+    "table_id": "p091_t03",
+    "pdf_page": 91,
+    "rows": [
+      [
+        "7 Critical thinking/problem-solving"
+      ],
+      [
+        "8 Creativity"
+      ],
+      [
+        "9 Communication"
+      ],
+      [
+        "10 Collaboration"
+      ]
+    ]
+  },
+  {
+    "table_id": "p091_t04",
+    "pdf_page": 91,
+    "rows": [
+      [
+        "11 Curiosity"
+      ],
+      [
+        "12 Initiative"
+      ],
+      [
+        "13 Persistence/grit"
+      ],
+      [
+        "14 Adaptability"
+      ],
+      [
+        "15 Leadership"
+      ],
+      [
+        "16 Social and cultural awareness"
+      ]
+    ]
+  },
+  {
+    "table_id": "p092_t01",
+    "pdf_page": 92,
+    "rows": [
+      [
+        "Basic skills",
+        "Functional literacy and numeracy, basic health knowledge and skills (including hygiene and HIV/AIDS prevention), child-rearing skills, domestic skills, simple psychomotor skills, basic education"
+      ],
+      [
+        "Generic and transferable skills",
+        "Problem-solving, reasoning, creative thinking, analysis of information, attitudes (such as a respect for time and a spirit of inquisitiveness), communication and language skills, (particularly bi- and trilingualism), basic computer skills, social skills of interaction with others"
+      ],
+      [
+        "Private sector business skills",
+        "Entrepreneurial skills (and attitudes), management, marketing and trading, packaging, dealing with banks, bookkeeping and accountancy, microenterprise management"
+      ],
+      [
+        "Public sector skills",
+        "Policymaking skills, project design and management, including specific technical skills such as planning and management uses of ICT"
+      ],
+      [
+        "Vocational skills",
+        "Building and construction, electrical installation and maintenance, electronic equipment repair, handicrafts and pottery, baking, automobile mechanics, painting, tailoring, carpentry, computer skills for secretarial work"
+      ],
+      [
+        "Agricultural skills",
+        "Improved agricultural techniques and technologies, improving soil fertility, food preservation and storage, weaving and making products from hides and skins, crop diversification"
+      ],
+      [
+        "Advanced skills",
+        "Science and technology skills, advanced technical skills (computing, laboratory technicians, and so on), engineering, research, agronomy, botany and biochemistry, teaching and education"
+      ],
+      [
+        "Service sector skills",
+        "Accountancy, servicing contracts, banking, tourism-related skills, hotel management, skills for guides, cooks, waiters and so on"
+      ],
+      [
+        "Political and citizenship skills",
+        "Moral and values education, Rwandan culture and history, participatory citizenship education, political awareness and political thinking, attitudes towards authority, human rights, unity and reconciliation"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t01",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "Indicator",
+        "Value"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t02",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "Mobile cellular subscriptions, per 100 inhabitants",
+        "125"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t03",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "Mobile broadband subscriptions, per 100 inhabitants",
+        "64.6"
+      ],
+      [
+        "Households with a computer, % of total",
+        "20.9"
+      ],
+      [
+        "Households with Internet access at home, % of total",
+        "26.9"
+      ],
+      [
+        "Individuals using the Internet, % of population",
+        "34.1"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t04",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "2013 Media access and use in Timor-Leste"
+      ],
+      [
+        "Population: 1,212 million"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t05",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "2015 ICT access and use in Timor-Leste"
+      ],
+      [
+        "Population: 1,212 million"
+      ]
+    ]
+  },
+  {
+    "table_id": "p102_t06",
+    "pdf_page": 102,
+    "rows": [
+      [
+        "2016 ICT access and use in Timor-Leste"
+      ],
+      [
+        "Population: 1,212 million"
+      ]
+    ]
+  },
+  {
+    "table_id": "p103_t01",
+    "pdf_page": 103,
+    "rows": [
+      [
+        "Age",
+        "Total",
+        "Women",
+        "Men"
+      ]
+    ]
+  },
+  {
+    "table_id": "p103_t02",
+    "pdf_page": 103,
+    "rows": [
+      [
+        "18–24",
+        "46.0",
+        "17.0",
+        "29.0"
+      ]
+    ]
+  },
+  {
+    "table_id": "p103_t03",
+    "pdf_page": 103,
+    "rows": [
+      [
+        "35–44",
+        "5.0",
+        "2.0",
+        "4.0"
+      ]
+    ]
+  },
+  {
+    "table_id": "p103_t04",
+    "pdf_page": 103,
+    "rows": [
+      [
+        "55–64",
+        "0.4",
+        "0.1",
+        "0.3"
+      ]
+    ]
+  },
+  {
+    "table_id": "p103_t05",
+    "pdf_page": 103,
+    "rows": [
+      [
+        "Total",
+        "100.0",
+        "35.0",
+        "65.0"
+      ]
+    ]
+  },
+  {
+    "table_id": "p104_t01",
+    "pdf_page": 104,
+    "rows": [
+      [
+        "Indices",
+        "Rank",
+        "Value, 1–7"
+      ]
+    ]
+  },
+  {
+    "table_id": "p104_t02",
+    "pdf_page": 104,
+    "rows": [
+      [
+        "Environment subindex",
+        "127",
+        "3.2"
+      ]
+    ]
+  },
+  {
+    "table_id": "p104_t03",
+    "pdf_page": 104,
+    "rows": [
+      [
+        "2nd pillar: business and innovation environment",
+        "109",
+        "3.8"
+      ],
+      [
+        "Readiness subindex",
+        "126",
+        "2.8"
+      ],
+      [
+        "3rd pillar: infrastructure",
+        "105",
+        "2.9"
+      ],
+      [
+        "4th pillar: affordability",
+        "129",
+        "2.8"
+      ],
+      [
+        "5th pillar: skills",
+        "130",
+        "2.8"
+      ],
+      [
+        "Usage subindex",
+        "137",
+        "2.4"
+      ],
+      [
+        "6th pillar: individual usage",
+        "125",
+        "2.0"
+      ],
+      [
+        "7th pillar: business usage",
+        "138",
+        "2.6"
+      ],
+      [
+        "8th pillar: government usage",
+        "131",
+        "2.7"
+      ],
+      [
+        "Impact subindex",
+        "132",
+        "2.6"
+      ],
+      [
+        "9th pillar: economic impacts",
+        "131",
+        "2.4"
+      ],
+      [
+        "10th pillar: social impacts",
+        "130",
+        "2.8"
+      ],
+      [
+        "2014 index, rank among 148 economies",
+        "134",
+        "2.8"
+      ],
+      [
+        "2013 index, rank among 144 economies",
+        "141",
+        "2.7"
+      ]
+    ]
+  },
+  {
+    "table_id": "p105_t01",
+    "pdf_page": 105,
+    "rows": [
+      [
+        "Fifth pillar indices",
+        "Rank, of 143",
+        "Value, 1–7"
+      ]
+    ]
+  },
+  {
+    "table_id": "p105_t02",
+    "pdf_page": 105,
+    "rows": [
+      [
+        "5.02 Quality of mathematics and science education",
+        "140",
+        "2.1"
+      ]
+    ]
+  },
+  {
+    "table_id": "p105_t03",
+    "pdf_page": 105,
+    "rows": [
+      [
+        "5.04 Adult literacy rate, %",
+        "100",
+        "67.5"
+      ]
+    ]
+  },
+  {
+    "table_id": "p118_t01",
+    "pdf_page": 118,
+    "rows": [
+      [
+        "Indicator",
+        "1996/97",
+        "1999",
+        "2001",
+        "2004",
+        "2007",
+        "2010",
+        "2014",
+        "2015"
+      ]
+    ]
+  },
+  {
+    "table_id": "p118_t02",
+    "pdf_page": 118,
+    "rows": [
+      [
+        "Adult literacy, ages 15+, %",
+        "40.6",
+        "40.4",
+        "43",
+        "50.1",
+        "50.6",
+        "58.3",
+        "64.1",
+        "67.5"
+      ]
+    ]
+  },
+  {
+    "table_id": "p118_t03",
+    "pdf_page": 118,
+    "rows": [
+      [
+        "Mean years of schooling",
+        null,
+        null,
+        "2.8",
+        "3.3",
+        null,
+        "4.4",
+        "4.4",
+        "4.4"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t01",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Indicator",
+        "Timor-Leste",
+        "Developing countries"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t02",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Men",
+        "5.3",
+        "7.3"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t03",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Inequality in education, 2015, %",
+        "47.6",
+        "32.3"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t04",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Public health expenditure, 2015, % of GDP",
+        "1.3",
+        "5.6"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t05",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Adult literacy, 2005–2015",
+        "67.5",
+        "79.9"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t06",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Country",
+        "Below level 1",
+        "Level 1",
+        "Levels 2 and 3",
+        "Level 4",
+        "Level 5"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t07",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Finland",
+        "2.7",
+        "8.0",
+        "67.2",
+        "20.0",
+        "2.2"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t08",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "Japan",
+        "0.6",
+        "4.3",
+        "71.4",
+        "21.4",
+        "1.2"
+      ]
+    ]
+  },
+  {
+    "table_id": "p119_t09",
+    "pdf_page": 119,
+    "rows": [
+      [
+        "United States",
+        "3.9",
+        "13.6",
+        "66.8",
+        "10.9",
+        "0.6"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t01",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "Budget",
+        "2004–2005",
+        "2005–2006",
+        "2006–2007",
+        "2008",
+        "2010"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t02",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "Education, %",
+        "14.9",
+        "13.4",
+        "10.7",
+        "11.7",
+        "11.3"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t03",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "Agriculture, %",
+        "8.8",
+        "4.6",
+        "5.8",
+        "5.9",
+        "3.7"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t04",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "State budget, $, millions",
+        "107.8",
+        "120.4",
+        "315.9",
+        "347.7",
+        "660.0"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t05",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "Health care, state budget, %",
+        "9.0",
+        "11.9",
+        "8.1",
+        "6.9",
+        "5.4"
+      ]
+    ]
+  },
+  {
+    "table_id": "p125_t06",
+    "pdf_page": 125,
+    "rows": [
+      [
+        "Infrastructure, state budget, %",
+        "—",
+        "—",
+        "15.8",
+        "12.8",
+        "28.5"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t01",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "Budget",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t02",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "Health, % ($, millions)",
+        "3.2 (42)",
+        "3.2 (54)",
+        "3.8 (69)",
+        "5.1 (76)",
+        "4.7 (74)",
+        "4.2 (66)"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t03",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "Agriculture, % ($, millions)",
+        "1.1 (15)",
+        "1.6 (26)",
+        "2.0 (36)",
+        "2.3 (34)",
+        "2.3 (36)",
+        "1.9 (30)"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t04",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "Budget share, %",
+        "Economies, number"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t05",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "7.3",
+        "Timor-Leste"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t06",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "15.0–20.0",
+        "38"
+      ]
+    ]
+  },
+  {
+    "table_id": "p126_t07",
+    "pdf_page": 126,
+    "rows": [
+      [
+        "25+",
+        "3: Ethiopia, Senegal, Zimbabwe"
+      ]
+    ]
+  },
+  {
+    "table_id": "p133_t01",
+    "pdf_page": 133,
+    "rows": [
+      [
+        "Scenario",
+        "Year",
+        "Education",
+        null,
+        null,
+        null,
+        null,
+        "Family planning",
+        null,
+        null,
+        null,
+        "Economic policies",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "sraeY )elameF( detcepxE",
+        "sraeY )elaM( detcepxE",
+        "sraeY )elameF( naeM",
+        "sraeY )elaM( naeM",
+        "sraeY )htoB( naeM",
+        ")nemoW nredoM deirraM( RPC",
+        ")nemoW lanoitidarT deirraM( RPC",
+        ")shtnoM( mutraptsoP ytilibitpecsusnI",
+        "llA tnecreP( )94-54 nemoW ytiliretS",
+        "snoitutitsnI :A1 ICG cilbuP",
+        "PDG :41.6 % a sa ICG stropmI",
+        "tekraM ytilibixelF ruobaL :A7 ICG",
+        "tekraM laicnaniF ycneicfifE :A8 ICG",
+        "esU TCI :B9 ICG"
+      ],
+      [
+        null,
+        null,
+        "12.10 13.70 3.60 5.30 4.20",
+        null,
+        null,
+        null,
+        null,
+        "24.1 1.9 9.1 7.8",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Base",
+        "2050",
+        "12.10",
+        "13.70",
+        "3.60",
+        "5.30",
+        "4.20",
+        "24.1",
+        "1.9",
+        "9.1",
+        "7.8",
+        "3.16",
+        "55.40",
+        "4.52",
+        "2.63",
+        "1.09"
+      ],
+      [
+        null,
+        null,
+        "12.10 13.70 3.60 5.30 4.20",
+        null,
+        null,
+        null,
+        null,
+        "24.1 1.9 9.1 7.8",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Econ + Educ",
+        "2050",
+        "17.00",
+        "17.00",
+        "10.00",
+        "10.00",
+        "10.00",
+        "24.1",
+        "1.9",
+        "9.1",
+        "7.8",
+        "5.00",
+        "100.00",
+        "5.50",
+        "5.00",
+        "4.00"
+      ],
+      [
+        null,
+        null,
+        "17.00 17.00 10.00 10.00 10.00",
+        null,
+        null,
+        null,
+        null,
+        "58.1 5.0 9.1 4",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "table_id": "p137_t01",
+    "pdf_page": 137,
+    "rows": [
+      [
+        "Population segment",
+        "Years",
+        "Life expectancy index"
+      ]
+    ]
+  },
+  {
+    "table_id": "p137_t02",
+    "pdf_page": 137,
+    "rows": [
+      [
+        "Men",
+        "63.64",
+        "0.70985"
+      ]
+    ]
+  },
+  {
+    "table_id": "p137_t03",
+    "pdf_page": 137,
+    "rows": [
+      [
+        "Population ages 25 or more, 2015 census",
+        "Never attended school",
+        "Pre- primarya",
+        "Primary",
+        "Pre- secondary, basic",
+        "Secondary",
+        "Polytechnic, diploma",
+        "University",
+        "Non-formal"
+      ]
+    ]
+  },
+  {
+    "table_id": "p137_t04",
+    "pdf_page": 137,
+    "rows": [
+      [
+        "Cumulative duration (years) YS  x",
+        "0",
+        "3",
+        "6.465",
+        "9.465",
+        "12.465",
+        "11.465",
+        "16.465",
+        "5"
+      ]
+    ]
+  },
+  {
+    "table_id": "p137_t05",
+    "pdf_page": 137,
+    "rows": [
+      [
+        "1.00000 MYS = 6.0 years",
+        "0.42395",
+        "0.01718",
+        "0.17171",
+        "0.08504",
+        "0.18037",
+        "0.01365",
+        "0.09485",
+        "0.01325"
+      ]
+    ]
+  },
+  {
+    "table_id": "p138_t01",
+    "pdf_page": 138,
+    "rows": [
+      [
+        "Age, years",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "∑m x"
+      ]
+    ]
+  },
+  {
+    "table_id": "p138_t02",
+    "pdf_page": 138,
+    "rows": [
+      [
+        "Indicator",
+        "Number",
+        "Share"
+      ]
+    ]
+  },
+  {
+    "table_id": "p138_t03",
+    "pdf_page": 138,
+    "rows": [
+      [
+        "Men",
+        "213,015",
+        "0.59169"
+      ]
+    ]
+  },
+  {
+    "table_id": "p138_t04",
+    "pdf_page": 138,
+    "rows": [
+      [
+        "Total population",
+        "1,183,643",
+        "1.00000"
+      ]
+    ]
+  },
+  {
+    "table_id": "p138_t05",
+    "pdf_page": 138,
+    "rows": [
+      [
+        "Women",
+        "582,531",
+        "0.49215"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t01",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "Age",
+        "Sex",
+        "Life expectancy"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t02",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "35",
+        "Men",
+        "38.42"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t03",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "Age",
+        "Indicator",
+        "Value"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t04",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "35",
+        "Women",
+        "40.77"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t05",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "35",
+        "Both",
+        "39.57"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t06",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "3–18",
+        "Expected years of schooling index",
+        "0.616667"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t07",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "Life expectancy index",
+        null,
+        "0.778487"
+      ]
+    ]
+  },
+  {
+    "table_id": "p139_t08",
+    "pdf_page": 139,
+    "rows": [
+      [
+        "25–34",
+        "Mean years of schooling index",
+        "0.598342"
+      ]
+    ]
+  },
+  {
+    "table_id": "p140_t01",
+    "pdf_page": 140,
+    "rows": [
+      [
+        "Index",
+        "Total",
+        "Men",
+        "Women",
+        "Youth",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Total",
+        "Men",
+        "Women"
+      ]
+    ]
+  },
+  {
+    "table_id": "p140_t02",
+    "pdf_page": 140,
+    "rows": [
+      [
+        "GDI, female HDI / male HDI",
+        "0.905",
+        null,
+        null,
+        null,
+        null,
+        "0.914"
+      ]
+    ]
+  },
+  {
+    "table_id": "p141_t01",
+    "pdf_page": 141,
+    "rows": [
+      [
+        "Certificate 4",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Certificate 3",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Expand post-primary learning to meet increasing demand while increasing the readliness for, and quality of post-primary education"
+      ],
+      [
+        "Certificate 2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Basic education I cycle: 4 years II cycle: 2 years III cycle: 3 years",
+        null,
+        null
+      ],
+      [
+        "Certificate 1",
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  }
+]

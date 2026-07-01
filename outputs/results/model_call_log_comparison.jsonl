@@ -1,0 +1,15 @@
+{"task": "compare_evaluate:qwen2.5:3b:chapter_4_001", "model": "llama3.2", "elapsed_seconds": 118.6224, "prompt_eval_count": 1528, "eval_count": 144, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_4_001:semantic_consistency", "model": "llama3.2", "elapsed_seconds": 92.3572, "prompt_eval_count": 1769, "eval_count": 138, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_4_001:category_consistency", "model": "llama3.2", "elapsed_seconds": 55.0121, "prompt_eval_count": 1791, "eval_count": 134, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_2_004", "model": "llama3.2", "elapsed_seconds": 94.5494, "prompt_eval_count": 1687, "eval_count": 135, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_2_004:semantic_consistency", "model": "llama3.2", "elapsed_seconds": 101.2972, "prompt_eval_count": 1919, "eval_count": 171, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_2_004:category_consistency", "model": "llama3.2", "elapsed_seconds": 50.918, "prompt_eval_count": 1983, "eval_count": 139, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_2_001", "model": "llama3.2", "elapsed_seconds": 133.5994, "prompt_eval_count": 1738, "eval_count": 163, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:qwen2.5:3b:chapter_2_001:semantic_consistency", "model": "llama3.2", "elapsed_seconds": 59.6921, "prompt_eval_count": 1999, "eval_count": 187, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:llama3.2:chapter_4_001", "model": "qwen2.5:3b", "elapsed_seconds": 101.8805, "prompt_eval_count": 1551, "eval_count": 189, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_4_001", "model": "llama3.2", "elapsed_seconds": 87.1689, "prompt_eval_count": 1598, "eval_count": 130, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_4_001:semantic_consistency", "model": "llama3.2", "elapsed_seconds": 49.8951, "prompt_eval_count": 1825, "eval_count": 156, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_4_001:category_consistency", "model": "llama3.2", "elapsed_seconds": 64.2139, "prompt_eval_count": 1878, "eval_count": 206, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_2_001", "model": "llama3.2", "elapsed_seconds": 86.1022, "prompt_eval_count": 1732, "eval_count": 143, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_2_001:semantic_consistency", "model": "llama3.2", "elapsed_seconds": 58.1618, "prompt_eval_count": 1972, "eval_count": 187, "cached": true, "valid_on_first_attempt": true}
+{"task": "compare_evaluate:phi3:mini:chapter_2_001:category_consistency", "model": "llama3.2", "elapsed_seconds": 59.0961, "prompt_eval_count": 2044, "eval_count": 194, "cached": true, "valid_on_first_attempt": true}

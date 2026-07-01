@@ -1,0 +1,61 @@
+{
+  "created_at_utc": "2026-06-27T11:18:48.198793+00:00",
+  "pdf": "timor-Leste.pdf",
+  "pdf_sha256": "7c423a2e32e5a4a0bdf237eccd65fb9cf0462c4c5067988803564e579971e9a9",
+  "page_count": 160,
+  "section_count": 8,
+  "chunk_count": 40,
+  "table_count": 105,
+  "chunk_size": 18000,
+  "chunk_overlap": 1500,
+  "section_ranges": [
+    {
+      "section_id": "executive_summary",
+      "title": "Executive Summary",
+      "start_pdf_page": 16,
+      "end_pdf_page": 22
+    },
+    {
+      "section_id": "chapter_1",
+      "title": "Planning the Opportunities for Youth",
+      "start_pdf_page": 23,
+      "end_pdf_page": 32
+    },
+    {
+      "section_id": "chapter_2",
+      "title": "Youth Well-Being and the Demographic Dividend",
+      "start_pdf_page": 33,
+      "end_pdf_page": 60
+    },
+    {
+      "section_id": "chapter_3",
+      "title": "The Economic Inclusion of Youth",
+      "start_pdf_page": 61,
+      "end_pdf_page": 86
+    },
+    {
+      "section_id": "chapter_4",
+      "title": "Education and Training in the New Economy",
+      "start_pdf_page": 87,
+      "end_pdf_page": 98
+    },
+    {
+      "section_id": "chapter_5",
+      "title": "The Fourth Industrial Revolution: Embracing Technology",
+      "start_pdf_page": 99,
+      "end_pdf_page": 114
+    },
+    {
+      "section_id": "chapter_6",
+      "title": "Public Investment in Youth",
+      "start_pdf_page": 115,
+      "end_pdf_page": 130
+    },
+    {
+      "section_id": "appendices",
+      "title": "Appendices",
+      "start_pdf_page": 131,
+      "end_pdf_page": 160
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "completed_at_utc": "2026-06-28T17:02:14.814367+00:00",
+  "prompt_version": "1.1.0",
+  "extractor_model": "qwen2.5:3b",
+  "evaluator_model": "llama3.2",
+  "temperature": 0.0,
+  "seed": 42,
+  "chunks_analysed": 31,
+  "model_calls": 33,
+  "cached_calls": 32
+}

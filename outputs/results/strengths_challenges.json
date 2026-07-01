@@ -1,0 +1,101 @@
+{
+  "validation_method": "source_verified",
+  "source_model": "qwen2.5:3b",
+  "strengths": [
+    {
+      "item": "Peaceful transition and stronger institutions",
+      "classification": "Achievement",
+      "explanation": "Timor-Leste's transition from conflict to peace and recent electoral processes indicate stronger state institutions.",
+      "source_pages": [
+        6
+      ],
+      "evidence": "Timor-Leste has successfully managed the transition from conflict to peace; recent elections demonstrate improved institutional capacity."
+    },
+    {
+      "item": "Improving adult literacy",
+      "classification": "Achievement",
+      "explanation": "Reported adult literacy increased substantially between 1996/97 and 2015.",
+      "source_pages": [
+        118
+      ],
+      "evidence": "The report's indicator table records adult literacy rising from 40.6% in 1996/97 to 67.5% in 2015."
+    },
+    {
+      "item": "Existing social enterprises",
+      "classification": "Achievement",
+      "explanation": "A small number of social enterprises already support employment, training and community-oriented production.",
+      "source_pages": [
+        79,
+        80
+      ],
+      "evidence": "The report identifies established enterprises including Info Timor, WithOneBean and WithOneSeed, while noting the sector is not widespread."
+    },
+    {
+      "item": "Youth health and ecological stewardship",
+      "classification": "Achievement",
+      "explanation": "The report identifies promising youth well-being achievements in physical health and ecological stewardship.",
+      "source_pages": [
+        59
+      ],
+      "evidence": "The report describes achievements in physical health and ecological stewardship as promising."
+    },
+    {
+      "item": "Women's parliamentary representation",
+      "classification": "Achievement",
+      "explanation": "Women held 38.5% of parliamentary seats under the gender quota, providing a concrete measure of political representation.",
+      "source_pages": [
+        121
+      ],
+      "evidence": "The report records 38.5% representation of women among members of Parliament."
+    }
+  ],
+  "challenges": [
+    {
+      "item": "Gender inequality in education",
+      "classification": "Challenge",
+      "explanation": "Girls and women face barriers to secondary education, reinforcing wider gender inequality.",
+      "source_pages": [
+        30,
+        120,
+        121
+      ],
+      "evidence": "The report links limited secondary-education access among girls and women to gender inequality."
+    },
+    {
+      "item": "Limited youth employment opportunities",
+      "classification": "Challenge",
+      "explanation": "Formal employment is scarce, urban youth unemployment is high and many young people are dissatisfied with available livelihoods.",
+      "source_pages": [
+        19
+      ],
+      "evidence": "The report records an urban youth unemployment peak of 26% and nearly 70% dissatisfaction with livelihood opportunities."
+    },
+    {
+      "item": "Infrastructure investment imbalance",
+      "classification": "Challenge",
+      "explanation": "Infrastructure received a much larger budget share than education, health care and agriculture combined.",
+      "source_pages": [
+        126
+      ],
+      "evidence": "In 2015, infrastructure received 36% of the budget—more than double the combined allocation to education, health care and agriculture."
+    },
+    {
+      "item": "Sexual and reproductive health access",
+      "classification": "Challenge",
+      "explanation": "Limited access to sexual and reproductive health services constrains the well-being and autonomy of girls and women.",
+      "source_pages": [
+        30
+      ],
+      "evidence": "The report identifies limited sexual and reproductive health access among girls and women as a driver of gender inequality."
+    },
+    {
+      "item": "Demographic dividend is not automatic",
+      "classification": "Challenge",
+      "explanation": "Fertility decline can lower the dependency ratio, but prosperity depends on timely social, political and economic policies.",
+      "source_pages": [
+        59
+      ],
+      "evidence": "The report states that reduced fertility alone provides no guarantee of prosperity or a demographic dividend."
+    }
+  ]
+}

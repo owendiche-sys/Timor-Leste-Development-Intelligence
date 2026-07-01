@@ -1,0 +1,318 @@
+{
+  "series": [
+    {
+      "series_name": "2. 1 + education",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 40,
+      "points": [
+        {
+          "year": "2015",
+          "value": 1.2
+        },
+        {
+          "year": "2020",
+          "value": 1.26
+        },
+        {
+          "year": "2025",
+          "value": 1.34
+        },
+        {
+          "year": "2030",
+          "value": 1.44
+        },
+        {
+          "year": "2035",
+          "value": 1.56
+        },
+        {
+          "year": "2040",
+          "value": 1.68
+        },
+        {
+          "year": "2045",
+          "value": 1.81
+        },
+        {
+          "year": "2050",
+          "value": 1.97
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Adult literacy, ages 15+, %",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 118,
+      "points": [
+        {
+          "year": "1996/97",
+          "value": 40.6
+        },
+        {
+          "year": "1999",
+          "value": 40.4
+        },
+        {
+          "year": "2001",
+          "value": 43.0
+        },
+        {
+          "year": "2004",
+          "value": 50.1
+        },
+        {
+          "year": "2007",
+          "value": 50.6
+        },
+        {
+          "year": "2010",
+          "value": 58.3
+        },
+        {
+          "year": "2014",
+          "value": 64.1
+        },
+        {
+          "year": "2015",
+          "value": 67.5
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Mean years of schooling",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 118,
+      "points": [
+        {
+          "year": "2001",
+          "value": 2.8
+        },
+        {
+          "year": "2004",
+          "value": 3.3
+        },
+        {
+          "year": "2010",
+          "value": 4.4
+        },
+        {
+          "year": "2014",
+          "value": 4.4
+        },
+        {
+          "year": "2015",
+          "value": 4.4
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Education, %",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 125,
+      "points": [
+        {
+          "year": "2004–2005",
+          "value": 14.9
+        },
+        {
+          "year": "2005–2006",
+          "value": 13.4
+        },
+        {
+          "year": "2006–2007",
+          "value": 10.7
+        },
+        {
+          "year": "2008",
+          "value": 11.7
+        },
+        {
+          "year": "2010",
+          "value": 11.3
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Agriculture, %",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 125,
+      "points": [
+        {
+          "year": "2004–2005",
+          "value": 8.8
+        },
+        {
+          "year": "2005–2006",
+          "value": 4.6
+        },
+        {
+          "year": "2006–2007",
+          "value": 5.8
+        },
+        {
+          "year": "2008",
+          "value": 5.9
+        },
+        {
+          "year": "2010",
+          "value": 3.7
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "State budget, $, millions",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 125,
+      "points": [
+        {
+          "year": "2004–2005",
+          "value": 107.8
+        },
+        {
+          "year": "2005–2006",
+          "value": 120.4
+        },
+        {
+          "year": "2006–2007",
+          "value": 315.9
+        },
+        {
+          "year": "2008",
+          "value": 347.7
+        },
+        {
+          "year": "2010",
+          "value": 660.0
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Health care, state budget, %",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 125,
+      "points": [
+        {
+          "year": "2004–2005",
+          "value": 9.0
+        },
+        {
+          "year": "2005–2006",
+          "value": 11.9
+        },
+        {
+          "year": "2006–2007",
+          "value": 8.1
+        },
+        {
+          "year": "2008",
+          "value": 6.9
+        },
+        {
+          "year": "2010",
+          "value": 5.4
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Infrastructure, state budget, %",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 125,
+      "points": [
+        {
+          "year": "2006–2007",
+          "value": 15.8
+        },
+        {
+          "year": "2008",
+          "value": 12.8
+        },
+        {
+          "year": "2010",
+          "value": 28.5
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Health, % ($, millions)",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 126,
+      "points": [
+        {
+          "year": "2011",
+          "value": 3.2
+        },
+        {
+          "year": "2012",
+          "value": 3.2
+        },
+        {
+          "year": "2013",
+          "value": 3.8
+        },
+        {
+          "year": "2014",
+          "value": 5.1
+        },
+        {
+          "year": "2015",
+          "value": 4.7
+        },
+        {
+          "year": "2016",
+          "value": 4.2
+        }
+      ],
+      "method": "deterministic_table_parse"
+    },
+    {
+      "series_name": "Agriculture, % ($, millions)",
+      "unit": "as reported",
+      "population_group": null,
+      "pdf_page": 126,
+      "points": [
+        {
+          "year": "2011",
+          "value": 1.1
+        },
+        {
+          "year": "2012",
+          "value": 1.6
+        },
+        {
+          "year": "2013",
+          "value": 2.0
+        },
+        {
+          "year": "2014",
+          "value": 2.3
+        },
+        {
+          "year": "2015",
+          "value": 2.3
+        },
+        {
+          "year": "2016",
+          "value": 1.9
+        }
+      ],
+      "method": "deterministic_table_parse"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "series": [
+    {
+      "series_name": "Adult literacy, ages 15+",
+      "unit": "%",
+      "population_group": "ages 15+",
+      "pdf_page": 1,
+      "points": [
+        {
+          "year": "1996/97",
+          "value": 40.6
+        },
+        {
+          "year": "2015",
+          "value": 67.5
+        },
+        {
+          "year": "2020",
+          "value": 68.3
+        },
+        {
+          "year": "2025",
+          "value": 70.1
+        },
+        {
+          "year": "2030",
+          "value": 72.4
+        },
+        {
+          "year": "2035",
+          "value": 74.9
+        },
+        {
+          "year": "2040",
+          "value": 77.6
+        },
+        {
+          "year": "2045",
+          "value": 80.5
+        }
+      ]
+    }
+  ]
+}

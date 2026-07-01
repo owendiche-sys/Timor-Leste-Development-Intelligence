@@ -1,0 +1,67 @@
+{
+  "indicators": [
+    {
+      "name": "HDI value",
+      "value": 0.585,
+      "unit": "index",
+      "year": 2015,
+      "population_group": "total population",
+      "pdf_page": 139,
+      "evidence": "he total population is therefore as follows: HDI (total population) = (life expectancy index for the total population x education index for the total population x income index for the total population) 1/3 = (0.69031 x 0.508309 x 0.56955)1/3 = 0.585. Calculated in a similar fashion, the HDI for women is",
+      "validation_method": "source_regex"
+    },
+    {
+      "name": "Life expectancy (years)",
+      "value": 64.87,
+      "unit": "years",
+      "year": 2013,
+      "population_group": "total population, both sexes",
+      "pdf_page": 137,
+      "evidence": "pulation segment Years Life expectancy index Total, both sexes 64.87 0.69031 Men 63.64 0.70985 Women 66.17 0.67185 Source: UNDP cal",
+      "validation_method": "source_regex"
+    },
+    {
+      "name": "Expected years of schooling",
+      "value": 11.06,
+      "unit": "years",
+      "year": 2015,
+      "population_group": "population ages 3-18",
+      "pdf_page": 138,
+      "evidence": "EYS3 = ∑18 3 (mx) (A.6) Based on the above, EYS = the sum of the shares enrolled in school at each age = 11.06 years (table D.3). The EYSs for men and women are calculated",
+      "validation_method": "source_regex"
+    },
+    {
+      "name": "Mean years of schooling",
+      "value": 6,
+      "unit": "years",
+      "year": 2015,
+      "population_group": "population ages 25+",
+      "pdf_page": 137,
+      "evidence": "t had any prior required level of education. Based on the above, MYS = the sum of the products of cumulated duration and the share of the population completing each level = 6.0 years. The MYS for men and women has been calculated in a si",
+      "validation_method": "source_regex"
+    },
+    {
+      "name": "GNI per capita",
+      "value": 4340,
+      "unit": "2011 PPP US dollars",
+      "year": 2015,
+      "population_group": "total population",
+      "pdf_page": 138,
+      "evidence": "to national accounts data (DGE 2016), while W orld Bank gives $4,340. 58 However, the national ac - counts data are not con",
+      "validation_method": "source_regex"
+    },
+    {
+      "name": "Population",
+      "value": 1183643,
+      "unit": "people",
+      "year": 2015,
+      "population_group": "total population",
+      "pdf_page": 138,
+      "evidence": "00 Men 213,015 0.59169 Women 146,996 0.40831 Total population 1,183,643 1.00000 Men 601,112 0.50785 Women 582,531 0.49215 Source: Calc",
+      "validation_method": "source_regex"
+    }
+  ],
+  "not_found": [
+    "HDI rank"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "strengths": [
+    {
+      "item": "Fee-free education",
+      "explanation": "Promotes equal access to education for all genders.",
+      "source_pages": [
+        122,
+        130
+      ]
+    },
+    {
+      "item": "Teacher training investment",
+      "explanation": "Ensures quality education and teacher employment.",
+      "source_pages": [
+        6,
+        130
+      ]
+    },
+    {
+      "item": "Substantial budget allocation",
+      "explanation": "Allocates 25% of the budget to education and training.",
+      "source_pages": [
+        19,
+        130
+      ]
+    },
+    {
+      "item": "Social enterprise programs",
+      "explanation": "Supports health care, tourism, and environmental management.",
+      "source_pages": [
+        126,
+        130
+      ]
+    },
+    {
+      "item": "Skills proficiency alignment",
+      "explanation": "Adopt OECD's recommended skills levels for population.",
+      "source_pages": [
+        130
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "item": "Gender inequality in education",
+      "explanation": "Women are underrepresented and face barriers to education.",
+      "source_pages": [
+        12,
+        19,
+        58
+      ]
+    },
+    {
+      "item": "Youth unemployment",
+      "explanation": "High youth unemployment rate with limited job opportunities.",
+      "source_pages": [
+        6,
+        43,
+        70
+      ]
+    },
+    {
+      "item": "Infrastructure investment imbalance",
+      "explanation": "Investment in infrastructure is more than double that of education and health care.",
+      "source_pages": [
+        12,
+        58
+      ]
+    },
+    {
+      "item": "Healthcare access issues",
+      "explanation": "Limited access to sexual and reproductive health services among girls and women.",
+      "source_pages": [
+        43,
+        70
+      ]
+    },
+    {
+      "item": "Fertility decline impact",
+      "explanation": "High dependency ratios due to high fertility in the past and recent fertility decline may not lead to prosperity without proper policies.",
+      "source_pages": [
+        59,
+        126
+      ]
+    }
+  ],
+  "source_model": "qwen2.5:3b"
+}

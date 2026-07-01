@@ -1,0 +1,280 @@
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training", "tvet"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "life expectancy", "maternal", "mortality", "nutrition"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "poverty", "urban"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gdp", "gni", "income"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "woman", "women"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "executive_summary_001", "section_id": "executive_summary", "start_pdf_page": 16, "end_pdf_page": 19, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training", "tvet"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural", "urban"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "income"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "climate", "present": 1, "matched_keywords": ["environment", "resilience"]}
+{"chunk_id": "executive_summary_002", "section_id": "executive_summary", "start_pdf_page": 19, "end_pdf_page": 21, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "education", "present": 1, "matched_keywords": ["education", "skills", "training"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "life expectancy"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "inequality", "present": 1, "matched_keywords": ["inequality", "poverty", "rural"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gni", "oil"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental", "natural resources"]}
+{"chunk_id": "chapter_1_001", "section_id": "chapter_1", "start_pdf_page": 23, "end_pdf_page": 27, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "education", "present": 1, "matched_keywords": ["education", "skills", "training"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "nutrition"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "inequality", "poverty", "rural"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "chapter_1_002", "section_id": "chapter_1", "start_pdf_page": 27, "end_pdf_page": 31, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "education", "present": 1, "matched_keywords": ["education", "skills", "training"]}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "health", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "inequality", "rural"]}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise"]}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men"]}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_1_003", "section_id": "chapter_1", "start_pdf_page": 30, "end_pdf_page": 31, "theme": "employment", "present": 1, "matched_keywords": ["labour", "work"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "schooling"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "life expectancy", "mortality"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "inequality", "present": 1, "matched_keywords": ["urban"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gdp", "gni", "income"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "woman", "women"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_2_001", "section_id": "chapter_2", "start_pdf_page": 33, "end_pdf_page": 38, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "work", "workforce"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "training"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "life expectancy", "maternal", "mortality"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gdp", "gni", "income", "oil"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "girls", "male", "men", "woman", "women"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_2_002", "section_id": "chapter_2", "start_pdf_page": 37, "end_pdf_page": 44, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work", "workforce"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "health", "present": 1, "matched_keywords": ["health", "mortality", "nutrition"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "inequality", "present": 1, "matched_keywords": ["inequality", "poverty", "rural"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gni", "income"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "climate", "present": 1, "matched_keywords": ["climate", "environment", "environmental", "resilience"]}
+{"chunk_id": "chapter_2_003", "section_id": "chapter_2", "start_pdf_page": 43, "end_pdf_page": 47, "theme": "employment", "present": 1, "matched_keywords": ["employment", "work"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "education", "present": 1, "matched_keywords": ["education", "skills"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "poverty", "rural", "urban"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "economy", "present": 1, "matched_keywords": ["economic", "gni", "income"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "climate", "present": 1, "matched_keywords": ["climate", "environment", "environmental"]}
+{"chunk_id": "chapter_2_004", "section_id": "chapter_2", "start_pdf_page": 47, "end_pdf_page": 51, "theme": "employment", "present": 1, "matched_keywords": ["work"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "economy", "present": 1, "matched_keywords": ["economic", "gni", "income"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "gender", "present": 1, "matched_keywords": ["men", "women"]}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_2_005", "section_id": "chapter_2", "start_pdf_page": 51, "end_pdf_page": 55, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "neet", "unemployment", "work"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "life expectancy"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "disparity", "rural", "urban"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gni", "income"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_2_006", "section_id": "chapter_2", "start_pdf_page": 55, "end_pdf_page": 59, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "neet", "unemployment", "work"]}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "education", "present": 1, "matched_keywords": ["education"]}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health"]}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "inequality", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "economy", "present": 1, "matched_keywords": ["economic"]}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "gender", "present": 1, "matched_keywords": ["men"]}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_2_007", "section_id": "chapter_2", "start_pdf_page": 59, "end_pdf_page": 59, "theme": "employment", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "skills", "training"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "poverty", "rural", "urban"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni", "income", "oil"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "chapter_3_001", "section_id": "chapter_3", "start_pdf_page": 61, "end_pdf_page": 66, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work"]}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "health", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "inequality", "present": 1, "matched_keywords": ["rural", "urban"]}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "income"]}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "girls", "male", "men", "women"]}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_3_002", "section_id": "chapter_3", "start_pdf_page": 65, "end_pdf_page": 70, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "neet", "unemployment", "work"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "health", "present": 1, "matched_keywords": ["nutrition"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural", "urban"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni", "income", "oil"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "climate", "present": 1, "matched_keywords": ["environment", "natural resources"]}
+{"chunk_id": "chapter_3_003", "section_id": "chapter_3", "start_pdf_page": 70, "end_pdf_page": 74, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work", "workforce"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural", "urban"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni", "income", "oil"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "gender", "present": 1, "matched_keywords": ["men", "women"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "climate", "present": 1, "matched_keywords": ["climate", "environment"]}
+{"chunk_id": "chapter_3_004", "section_id": "chapter_3", "start_pdf_page": 73, "end_pdf_page": 77, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "income"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "gender", "present": 1, "matched_keywords": ["men", "woman", "women"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "chapter_3_005", "section_id": "chapter_3", "start_pdf_page": 76, "end_pdf_page": 80, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "neet", "work"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "health", "present": 1, "matched_keywords": ["nutrition"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "income", "oil"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental", "natural resources"]}
+{"chunk_id": "chapter_3_006", "section_id": "chapter_3", "start_pdf_page": 80, "end_pdf_page": 84, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work", "workforce"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "health", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "income", "oil"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_3_007", "section_id": "chapter_3", "start_pdf_page": 84, "end_pdf_page": 85, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "poverty", "rural", "urban"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "gender", "present": 1, "matched_keywords": ["girls", "men"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_4_001", "section_id": "chapter_4", "start_pdf_page": 87, "end_pdf_page": 92, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "nutrition"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "oil"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "gender", "present": 1, "matched_keywords": ["girls", "men"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_4_002", "section_id": "chapter_4", "start_pdf_page": 91, "end_pdf_page": 95, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "inequality", "present": 1, "matched_keywords": ["deprivation", "rural"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "income"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "gender", "present": 1, "matched_keywords": ["men"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_4_003", "section_id": "chapter_4", "start_pdf_page": 94, "end_pdf_page": 97, "theme": "employment", "present": 1, "matched_keywords": ["employment", "work", "workforce"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "education", "present": 1, "matched_keywords": ["education", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "health", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "inequality", "present": 1, "matched_keywords": ["inequality", "rural", "urban"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gni", "income"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_5_001", "section_id": "chapter_5", "start_pdf_page": 99, "end_pdf_page": 104, "theme": "employment", "present": 1, "matched_keywords": ["labour", "work", "workforce"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "girls", "male", "men", "women"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_5_002", "section_id": "chapter_5", "start_pdf_page": 103, "end_pdf_page": 107, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "work"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "inequality", "present": 1, "matched_keywords": ["rural", "urban"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "economy", "present": 1, "matched_keywords": ["economy", "enterprise", "gni"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_5_003", "section_id": "chapter_5", "start_pdf_page": 107, "end_pdf_page": 110, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "economy", "present": 1, "matched_keywords": ["economy", "enterprise", "gni"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_5_004", "section_id": "chapter_5", "start_pdf_page": 110, "end_pdf_page": 113, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "skills", "training", "tvet"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "health", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "inequality", "present": 1, "matched_keywords": ["rural", "urban"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "economy", "present": 1, "matched_keywords": ["enterprise", "gni"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "chapter_5_005", "section_id": "chapter_5", "start_pdf_page": 113, "end_pdf_page": 113, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "work"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "health", "present": 1, "matched_keywords": ["health", "life expectancy", "nutrition"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "inequality", "present": 1, "matched_keywords": ["disparity", "inequality", "rural"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni", "income"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "chapter_6_001", "section_id": "chapter_6", "start_pdf_page": 115, "end_pdf_page": 119, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "work"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health", "maternal", "mortality", "nutrition"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "inequality", "present": 1, "matched_keywords": ["inequality", "rural", "urban"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "gdp", "gni", "income"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "gender", "present": 1, "matched_keywords": ["gender", "girls", "men", "women"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "climate", "present": 1, "matched_keywords": ["climate", "environment", "natural resources"]}
+{"chunk_id": "chapter_6_002", "section_id": "chapter_6", "start_pdf_page": 119, "end_pdf_page": 123, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "skills", "training"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "economy", "present": 1, "matched_keywords": ["economy", "enterprise", "gdp", "gni", "income", "oil"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "gender", "present": 1, "matched_keywords": ["men"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "chapter_6_003", "section_id": "chapter_6", "start_pdf_page": 122, "end_pdf_page": 126, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "neet", "unemployment", "work"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "inequality", "present": 1, "matched_keywords": ["rural", "urban"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "economy", "present": 1, "matched_keywords": ["economy", "enterprise", "oil"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "gender", "present": 1, "matched_keywords": ["girls", "men", "women"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental", "resilience"]}
+{"chunk_id": "chapter_6_004", "section_id": "chapter_6", "start_pdf_page": 126, "end_pdf_page": 130, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "unemployment", "work", "workforce"]}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "schooling", "skills", "training"]}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "health", "present": 1, "matched_keywords": ["health", "life expectancy", "mortality"]}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "inequality", "present": 0, "matched_keywords": []}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "economy", "present": 1, "matched_keywords": ["economic", "gdp"]}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "male", "men", "women"]}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "appendices_001", "section_id": "appendices", "start_pdf_page": 131, "end_pdf_page": 136, "theme": "employment", "present": 1, "matched_keywords": ["labour", "work"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "schooling", "training", "tvet"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "health", "present": 1, "matched_keywords": ["health", "life expectancy", "mortality"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "inequality", "present": 1, "matched_keywords": ["poverty"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gdp", "gni", "income"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "male", "men", "women"]}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "appendices_002", "section_id": "appendices", "start_pdf_page": 136, "end_pdf_page": 141, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "inequality", "present": 1, "matched_keywords": ["poverty"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "economy", "present": 1, "matched_keywords": ["enterprise", "gni", "income"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "gender", "present": 1, "matched_keywords": ["female", "gender", "male", "men", "women"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "appendices_003", "section_id": "appendices", "start_pdf_page": 140, "end_pdf_page": 144, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "inequality", "present": 1, "matched_keywords": ["rural"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "gni", "oil"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "gender", "present": 1, "matched_keywords": ["girls", "men", "women"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "appendices_004", "section_id": "appendices", "start_pdf_page": 143, "end_pdf_page": 147, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training", "tvet"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural", "urban"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "economy", "present": 1, "matched_keywords": ["economic", "enterprise", "gdp", "gni"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "climate", "present": 0, "matched_keywords": []}
+{"chunk_id": "appendices_005", "section_id": "appendices", "start_pdf_page": 147, "end_pdf_page": 151, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "neet", "work"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "education", "present": 1, "matched_keywords": ["education", "school", "training"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "health", "present": 1, "matched_keywords": ["fertility", "health"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "inequality", "present": 1, "matched_keywords": ["inequality", "poverty", "rural"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "oil"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "climate", "present": 1, "matched_keywords": ["environment"]}
+{"chunk_id": "appendices_006", "section_id": "appendices", "start_pdf_page": 150, "end_pdf_page": 152, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "neet", "work"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "health", "present": 1, "matched_keywords": ["health"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural", "urban"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "gender", "present": 1, "matched_keywords": ["gender", "men", "women"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "climate", "present": 1, "matched_keywords": ["environment", "environmental"]}
+{"chunk_id": "appendices_007", "section_id": "appendices", "start_pdf_page": 152, "end_pdf_page": 154, "theme": "employment", "present": 1, "matched_keywords": ["employment", "jobs", "labour", "work", "workforce"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "skills", "training", "tvet"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "health", "present": 1, "matched_keywords": ["health", "nutrition"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "economy", "present": 1, "matched_keywords": ["economic", "economy", "enterprise", "oil"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "gender", "present": 1, "matched_keywords": ["girls", "men"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "climate", "present": 1, "matched_keywords": ["climate"]}
+{"chunk_id": "appendices_008", "section_id": "appendices", "start_pdf_page": 154, "end_pdf_page": 156, "theme": "employment", "present": 1, "matched_keywords": ["employment", "labour", "unemployment", "work"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "education", "present": 1, "matched_keywords": ["education", "literacy", "school", "schooling", "skills", "training"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "health", "present": 1, "matched_keywords": ["health", "mortality", "nutrition"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "inequality", "present": 1, "matched_keywords": ["poverty", "rural"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "economy", "present": 1, "matched_keywords": ["economic"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "gender", "present": 1, "matched_keywords": ["men", "women"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "climate", "present": 1, "matched_keywords": ["climate", "environment"]}
+{"chunk_id": "appendices_009", "section_id": "appendices", "start_pdf_page": 156, "end_pdf_page": 160, "theme": "employment", "present": 1, "matched_keywords": ["employment", "work"]}

@@ -1,0 +1,803 @@
+{
+  "settings": {
+    "repeats": 3,
+    "sample_size": 3,
+    "temperature": 0.2
+  },
+  "metrics": [
+    {
+      "model": "qwen2.5:3b",
+      "valid_response_count": 7,
+      "total_response_count": 9,
+      "evaluated_response_count": 3,
+      "judge_models": "llama3.2",
+      "json_valid_rate": 0.7778,
+      "stability_pair_count": 5,
+      "stability_jaccard": 0.8381,
+      "average_theme_count": 2.0,
+      "average_indicator_count": 2.286,
+      "missing_field_rate": 0.0125,
+      "average_word_count": 26.714,
+      "average_seconds": 59.3,
+      "mean_judge_score": 3.75,
+      "factual_alignment_score": 4.0
+    },
+    {
+      "model": "llama3.2",
+      "valid_response_count": 3,
+      "total_response_count": 9,
+      "evaluated_response_count": 1,
+      "judge_models": "qwen2.5:3b",
+      "json_valid_rate": 0.3333,
+      "stability_pair_count": 3,
+      "stability_jaccard": 0.5832,
+      "average_theme_count": 2.0,
+      "average_indicator_count": 1.667,
+      "missing_field_rate": 0.0,
+      "average_word_count": 35.667,
+      "average_seconds": 80.029,
+      "mean_judge_score": 1.0,
+      "factual_alignment_score": 1.0
+    },
+    {
+      "model": "phi3:mini",
+      "valid_response_count": 2,
+      "total_response_count": 9,
+      "evaluated_response_count": 2,
+      "judge_models": "llama3.2",
+      "json_valid_rate": 0.2222,
+      "stability_pair_count": 0,
+      "stability_jaccard": null,
+      "average_theme_count": 3.0,
+      "average_indicator_count": 2.0,
+      "missing_field_rate": 0.0,
+      "average_word_count": 50.5,
+      "average_seconds": 153.711,
+      "mean_judge_score": 4.75,
+      "factual_alignment_score": 4.0
+    }
+  ],
+  "evaluations": [
+    {
+      "model": "qwen2.5:3b",
+      "chunk_id": "chapter_4_001",
+      "evaluated_run": 1,
+      "judge_model": "llama3.2",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for qwen2.5:3b",
+      "scores": {
+        "factual_alignment": 4,
+        "completeness": 4,
+        "consistency": 4,
+        "format_compliance": 4
+      },
+      "unsupported_claims": [],
+      "missing_items": [
+        "numerical_facts"
+      ],
+      "verdict": "revise",
+      "justification": "The output accurately summarizes the report's main points, including education challenges and initiatives to improve literacy and skills among youth. However, the numerical fact for graduates is missing from the output.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed.",
+      "consistency_adjustments": [
+        "Removed a score statement contradicted by the scores object."
+      ]
+    },
+    {
+      "model": "qwen2.5:3b",
+      "chunk_id": "chapter_2_004",
+      "evaluated_run": 1,
+      "judge_model": "llama3.2",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for qwen2.5:3b",
+      "scores": {
+        "factual_alignment": 4,
+        "completeness": 4,
+        "consistency": 4,
+        "format_compliance": 4
+      },
+      "unsupported_claims": [],
+      "missing_items": [
+        "income and perceived economic well-being"
+      ],
+      "verdict": "revise",
+      "justification": "The output accurately summarizes the main points of the report, including the findings on youth well-being and the methodology used. The numerical fact for income and perceived economic well-being is missing from the output.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed.",
+      "consistency_adjustments": [
+        "Removed a word-limit criticism contradicted by the output word count."
+      ]
+    },
+    {
+      "model": "qwen2.5:3b",
+      "chunk_id": "chapter_2_001",
+      "evaluated_run": 2,
+      "judge_model": "llama3.2",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for qwen2.5:3b",
+      "scores": {
+        "factual_alignment": 4,
+        "completeness": 1,
+        "consistency": 4,
+        "format_compliance": 4
+      },
+      "unsupported_claims": [
+        "The demographic dividend is a permanent phenomenon"
+      ],
+      "missing_items": [
+        "Total population in 2010",
+        "Legal age for marriage among girls"
+      ],
+      "verdict": "revise",
+      "justification": "The output accurately reports the median age of Timor-Leste as 17.4 years and provides a population growth rate of 2.6% between 2010 and 2015. However, the numerical facts section is missing the total population in 2010 and the legal age for marriage among girls. Additionally, the output does not explicitly state that the demographic dividend is a temporary phenomenon lasting only 30-40 years.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed."
+    },
+    {
+      "model": "llama3.2",
+      "chunk_id": "chapter_4_001",
+      "evaluated_run": 1,
+      "judge_model": "qwen2.5:3b",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for llama3.2",
+      "scores": {
+        "factual_alignment": 1,
+        "completeness": 1,
+        "consistency": 1,
+        "format_compliance": 1
+      },
+      "unsupported_claims": [
+        "The chapter discusses ways educational initiatives and policies may inspire young people to acquire skills and otherwise train so they may create sustainable livelihoods that will contribute to community needs."
+      ],
+      "missing_items": [
+        "Additionally, there are no numerical facts provided in the summary or themes section."
+      ],
+      "verdict": "revise",
+      "justification": "The output contains unsupported claims such as 'The chapter discusses ways educational initiatives and policies may inspire young people to acquire skills and otherwise train so they may create sustainable livelihoods that will contribute to community needs.' This claim is not supported by the verified source evidence. Additionally, there are no numerical facts provided in the summary or themes section.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed.",
+      "consistency_adjustments": [
+        "Copied an explicit missing-content criticism into its issue array."
+      ]
+    },
+    {
+      "model": "llama3.2",
+      "chunk_id": "chapter_2_004",
+      "evaluated_run": null,
+      "judge_model": null,
+      "evaluation_status": "no_valid_response",
+      "scores": {},
+      "unsupported_claims": [],
+      "missing_items": [],
+      "verdict": "not_evaluated",
+      "justification": "No valid JSON response was available in any comparison run."
+    },
+    {
+      "model": "llama3.2",
+      "chunk_id": "chapter_2_001",
+      "evaluated_run": null,
+      "judge_model": null,
+      "evaluation_status": "no_valid_response",
+      "scores": {},
+      "unsupported_claims": [],
+      "missing_items": [],
+      "verdict": "not_evaluated",
+      "justification": "No valid JSON response was available in any comparison run."
+    },
+    {
+      "model": "phi3:mini",
+      "chunk_id": "chapter_4_001",
+      "evaluated_run": 3,
+      "judge_model": "llama3.2",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for phi3:mini",
+      "scores": {
+        "factual_alignment": 4,
+        "completeness": 5,
+        "consistency": 5,
+        "format_compliance": 5
+      },
+      "unsupported_claims": [
+        "Additionally, the numerical fact for students taught per day by Jose Araóo has an unsupported unit (individual students or not reported)."
+      ],
+      "missing_items": [
+        "year for the number of centers for Science of Life Systems initiative"
+      ],
+      "verdict": "revise",
+      "justification": "The output accurately summarizes the main points from the verified source evidence. However, the year for the number of centers for Science of Life Systems initiative is missing, which could be considered a minor non-factual limitation. Additionally, the numerical fact for students taught per day by Jose Araóo has an unsupported unit (individual students or not reported). The score for factual alignment is 4 because the output accurately summarizes the main points from the verified source evidence, but it does not fully address all required items. The scores object exactly matches the justification. The verdict follows the scores and issue arrays.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed.",
+      "consistency_adjustments": [
+        "Copied an explicit unsupported-claim criticism into its issue array."
+      ]
+    },
+    {
+      "model": "phi3:mini",
+      "chunk_id": "chapter_2_004",
+      "evaluated_run": null,
+      "judge_model": null,
+      "evaluation_status": "no_valid_response",
+      "scores": {},
+      "unsupported_claims": [],
+      "missing_items": [],
+      "verdict": "not_evaluated",
+      "justification": "No valid JSON response was available in any comparison run."
+    },
+    {
+      "model": "phi3:mini",
+      "chunk_id": "chapter_2_001",
+      "evaluated_run": 3,
+      "judge_model": "llama3.2",
+      "evaluation_status": "evaluated",
+      "task": "cross-model benchmark for phi3:mini",
+      "scores": {
+        "factual_alignment": 4,
+        "completeness": 5,
+        "consistency": 5,
+        "format_compliance": 5
+      },
+      "unsupported_claims": [
+        "The country, ranking as the world's 15th youngest nation behind African nations and Afghanistan, has a significant portion below 35 years old at about 74% based on census data from 2016."
+      ],
+      "missing_items": [
+        "page citations for all data points"
+      ],
+      "verdict": "revise",
+      "justification": "The output accurately reports the median age as 17.4 years and the percentage below 35 years old as 74%. However, it incorrectly states that Timor-Leste is the world's 15th youngest nation without providing a clear ranking or evidence from the verified source. Additionally, the numerical facts section lacks specific page citations for all data points.",
+      "model_verdict": "revise",
+      "verdict_policy_applied": false,
+      "policy_reason": "One or more scores are below 4 or evidence issues were listed."
+    }
+  ],
+  "records": [
+    {
+      "model": "qwen2.5:3b",
+      "run": 1,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 70.0507,
+      "output": {
+        "summary": "The report discusses education challenges, future aspirations for Timor-Leste's education system, and initiatives like non-formal education. It highlights efforts to improve literacy and skills among youth.",
+        "themes": [
+          "education"
+        ],
+        "numerical_facts": [
+          {
+            "label": "students",
+            "value": "70",
+            "unit": "people",
+            "year": null,
+            "pdf_page": 89,
+            "evidence": "Jose Araúujo teaches Portuguese to 70 students in a classroom."
+          },
+          {
+            "label": "graduates",
+            "value": "not_reported",
+            "unit": "people",
+            "year": null,
+            "pdf_page": 86,
+            "evidence": "Maliana and Natabora provide graduates with good technical skills; however, few graduates become farmers."
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 1,
+      "chunk_id": "chapter_2_004",
+      "json_valid": true,
+      "elapsed_seconds": 76.6338,
+      "output": {
+        "summary": "The Timor-Leste 2016 Youth Well-Being Survey found that almost 10% of youth are moderately or extensively deprived in overall well-being, highlighting the need for special attention to address concerns about their well-being.",
+        "themes": [
+          "education",
+          "health"
+        ],
+        "numerical_facts": [
+          {
+            "label": "income and perceived economic well-being",
+            "value": "not_reported",
+            "unit": "not_reported",
+            "year": null,
+            "pdf_page": 47,
+            "evidence": "Source: Timor-Leste 2016 Youth Well-Being Survey."
+          },
+          {
+            "label": "physical health sufficiency",
+            "value": "82%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 50,
+            "evidence": "78 percent of youth (82 percent women and 75 percent men) have achieved sufficiency in well-being in this domain."
+          },
+          {
+            "label": "domestic violence impact on youth",
+            "value": "not_reported",
+            "unit": "percent",
+            "year": null,
+            "pdf_page": 50,
+            "evidence": "20 percent report they suffer emotionally or physically from the effects of domestic violence."
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 1,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 80.073,
+      "output": {
+        "raw_response": "{\"summary\": \"The population of Timor-Leste is one of the youngest in Asia and Pacific region, with a median age of 17.4 years.\", \"themes\": [\"education\", \"health\", \"inequality\"], \"numerical_facts\": [{\"label\": \"Total Population (2015)\", \"value\": \"1,183,643\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 7, \"evidence\": \"The most recent census recorded the total population at 1,183,643 in 2015 (DGE 2015).\"}, {\"label\": \"Population Growth Rate (2010-2015)\", \"value\": \"2.6%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 7, \"evidence\": \"The annual population growth rates have been high since independence, 2.6 per - cent between 2010 and 2015.\"}, {\"label\": \"Total Fertility Rate (2015)\", \"value\": \"4.3\", \"unit\": \"children per woman\", \"year\": null, \"pdf_page\": 24, \"evidence\": \"According to the combined policy scenario (policy scenario 3), improvements in the economy, education and family planning would lead to a minimum replacement fertil - ity rate of 2.1 children per woman by 2048.\"}, {\"label\": \"Projected Total Fertility Rate (2050)\", \"value\": \"less than 2.0\", \""
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 2,
+      "chunk_id": "chapter_4_001",
+      "json_valid": false,
+      "elapsed_seconds": 79.5579,
+      "output": {
+        "raw_response": "{\"summary\": \"The report highlights challenges related to education, particularly rural-urban migration, and mentions efforts like non-formal education programs. It also touches on health issues and economic development.\", \"themes\": [\"education\", \"health\", \"economy\"], \"numerical_facts\": [{\"label\": \"students in classroom\", \"value\": \"70\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 74, \"evidence\": \"Jose Ara\\u00faujo teaches Portuguese to 70 students in a classroom.\"}, {\"label\": \"graduates from non-formal education\", \"value\": \"not_reported\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 76, \"evidence\": \"Many centres also cater for part-time students of any age. Science of Life Systems plays a role in preparatory non-formal education among many people in Timor-Leste.\"}, {\"label\": \"students learning computer maintenance\", \"value\": \"not_reported\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 76, \"evidence\": \"A small group learns computer maintenance.\"}, {\"label\": \"graduates pursuing agriculture\", \"value\": \"fewer than half\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 78, \"evidence\": \"Maliana and Natabora provide graduates with good technical skills; however, few graduates become farmers. Some are employed as agricultural extension workers, but more aspire to attend university and study agricultural science.\"}, {\"label\": \"graduates pursuing agriculture\", \"value\": \""
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 2,
+      "chunk_id": "chapter_2_004",
+      "json_valid": true,
+      "elapsed_seconds": 78.9889,
+      "output": {
+        "summary": "The Timor-Leste 2016 Youth Well-Being Survey found that almost 10% of youth are moderately or extensively deprived in overall well-being, indicating a need for special attention to address concerns about their well-being.",
+        "themes": [
+          "education",
+          "health"
+        ],
+        "numerical_facts": [
+          {
+            "label": "income and perceived economic well-being",
+            "value": "not_reported",
+            "unit": "not_reported",
+            "year": null,
+            "pdf_page": 47,
+            "evidence": "Source: Timor-Leste 2016 Youth Well-Being Survey."
+          },
+          {
+            "label": "physical health sufficiency",
+            "value": "78%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 50,
+            "evidence": "78 percent of youth have achieved sufficiency in this domain."
+          },
+          {
+            "label": "psychological and emotional health sufficiency",
+            "value": "not_reported",
+            "unit": "not_reported",
+            "year": null,
+            "pdf_page": 51,
+            "evidence": "78 percent of youth (82 percent women and 75 percent men) have achieved sufficiency in this domain."
+          },
+          {
+            "label": "culture sufficiency",
+            "value": "79%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 51,
+            "evidence": "Similar to the psychological and emotional health domain, 79 percent of youth have achieved sufficiency in the domain of culture."
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 2,
+      "chunk_id": "chapter_2_001",
+      "json_valid": true,
+      "elapsed_seconds": 39.5201,
+      "output": {
+        "summary": "The population of Timor-Leste is one of the youngest in Asia and Pacific region, with a median age of 17.4 years.",
+        "themes": [
+          "education",
+          "health",
+          "inequality"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Population Growth Rate",
+            "value": "2.6%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 7,
+            "evidence": "The annual population growth rates have been high since independence, 2.6 per - cent between 2010 and 2015."
+          },
+          {
+            "label": "Total Population in 2015",
+            "value": "1,183,643",
+            "unit": "",
+            "year": null,
+            "pdf_page": 7,
+            "evidence": "The most recent census recorded the total population at 1,183,643 in 2015 (DGE 2015)."
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 3,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 19.5422,
+      "output": {
+        "summary": "The report discusses education challenges, including rural-urban migration, and mentions non-formal education initiatives. It also highlights the importance of skills training for youth.",
+        "themes": [
+          "education"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Education Enrollment",
+            "value": "16-25 year-olds",
+            "unit": "years old",
+            "year": null,
+            "pdf_page": 47,
+            "evidence": "Many centres also cater for part-time students of any age."
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 3,
+      "chunk_id": "chapter_2_004",
+      "json_valid": true,
+      "elapsed_seconds": 29.753,
+      "output": {
+        "summary": "The Timor-Leste 2016 Youth Well-Being Survey found that almost 10% of youth are moderately or extensively deprived in overall well-being, highlighting a need for special attention to address concerns about their well-being.",
+        "themes": [
+          "education",
+          "health"
+        ],
+        "numerical_facts": [
+          {
+            "label": "income and perceived economic well-being",
+            "value": "not_reported",
+            "unit": "not_reported",
+            "year": null,
+            "pdf_page": 47,
+            "evidence": "The Timor-Leste 2016 Youth Well-Being Survey"
+          }
+        ]
+      }
+    },
+    {
+      "model": "qwen2.5:3b",
+      "run": 3,
+      "chunk_id": "chapter_2_001",
+      "json_valid": true,
+      "elapsed_seconds": 59.5839,
+      "output": {
+        "summary": "The population of Timor-Leste is one of the youngest in Asia and Pacific region, with a median age of 17.4 years.",
+        "themes": [
+          "education",
+          "health",
+          "inequality"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Total Population",
+            "value": "1,183,643",
+            "unit": "people",
+            "year": null,
+            "pdf_page": 20,
+            "evidence": "The total population of Timor-Leste was recorded at 1,183,643 in the 2015 Population and Housing Census."
+          },
+          {
+            "label": "Population Growth Rate",
+            "value": "2.6%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 7,
+            "evidence": "The annual population growth rates have been high since independence, with a rate of 2.6% between 2010 and 2015."
+          },
+          {
+            "label": "Fertility Rate",
+            "value": "4.3 children per woman in 2015",
+            "unit": "children per woman",
+            "year": null,
+            "pdf_page": 24,
+            "evidence": "According to the combined policy scenario (policy scenario 3), improvements in the economy, education and family planning would lead to a minimum replacement fertility rate of 2.1 children per woman by 2048."
+          }
+        ]
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 1,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 100.9659,
+      "output": {
+        "summary": "Education is a challenge in Timor-Leste, with many young people leaving rural areas for urban centers. The country aims to become a democratic society with adequate food, shelter, and clothing for all by 2020.",
+        "themes": [
+          "education",
+          "inequality"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Number of students taught by Jose Araújo",
+            "value": "70",
+            "unit": "students",
+            "year": null,
+            "pdf_page": 74,
+            "evidence": "in a classroom"
+          },
+          {
+            "label": "Number of centres providing boarding for full-time students",
+            "value": "47",
+            "unit": "centres",
+            "year": null,
+            "pdf_page": 76,
+            "evidence": "covering all districts"
+          }
+        ]
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 1,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 114.9824,
+      "output": {
+        "raw_response": "{\"summary\": \"The report highlights the well-being of Timor-Leste's youth, with 27% requiring special attention due to overall well-being concerns. Youth generally maintain satisfactory physical health but experience stress and emotional issues related to financial pressure and domestic violence.\", \"themes\": [\"education\", \"health\", \"inequality\"], \"numerical_facts\": [\n{\"label\": \"income and perceived economic well-being\", \"value\": \"9.6%\", \"unit\": \"percent\", \"year\": \"2016\", \"pdf_page\": 34, \"evidence\": \"Moderate sufficiency in overall well-being\"},\n{\"label\": \"number of domains in which a person is satisfied\", \"value\": \"0-8\", \"unit\": \"domains\", \"year\": \"null\", \"pdf_page\": 32, \"evidence\": \"Likert-type scale to denote specific levels of well-being\"},\n{\"label\": \"percentage of youth moderately or extensively deprived in overall well-being\", \"value\": \"10%\", \"unit\": \"percent\", \"year\": \"2016\", \"pdf_page\": 34, \"evidence\": \"Extensive insufficiency in overall well-being\"},\n{\"label\": \"percentage of youth requiring special attention due to overall well-being concerns\", \"value\": \"27%\", \"unit\": \"percent\", \"year\": \"null\", \"pdf_page\": 34, \"evidence\": \"Special attention required\"},\n{\"label\": \"percentage of youth with achieved sufficiency in psychological health\", \"value\": \"78%\", \"unit\": \"percent\", \"year\": \"2016\", \"pdf_page\": 36, \"evidence\": \"Sufficiency"
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 1,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 108.6265,
+      "output": {
+        "raw_response": "{\"summary\": \"Timor-Leste has a young population with a median age of 17.4 years, and is experiencing a demographic transition with declining birth rates and increasing life expectancy. The country aims to reap the benefits of its demographic dividend through targeted policies.\", \"themes\": [\"education\", \"health\", \"inequality\", \"economy\"], \"numerical_facts\": [\n{\"label\": \"median age\", \"value\": \"17.4 years\", \"unit\": \"years\", \"year\": \"2015\", \"pdf_page\": 7, \"evidence\": \"The population of Timor-Leste is one of the youngest in the Asia and Pacific region.\"},\n{\"label\": \"population growth rate\", \"value\": \"2.6%\", \"unit\": \"%\", \"year\": \"2010-2015\", \"pdf_page\": 24, \"evidence\": \"The annual population growth rates have been high since independence.\"},\n{\"label\": \"total population\", \"value\": \"1,183,643\", \"unit\": \"people\", \"year\": \"2015\", \"pdf_page\": 7, \"evidence\": \"The most recent census recorded the total population at 1,183,643 in 2015.\"},\n{\"label\": \"increase in population\", \"value\": \"117,000\", \"unit\": \"people\", \"year\": \"2005-2010\", \"pdf_page\": 24, \"evidence\": \"This was an increase of 117,000 over 2010, representing a 10 percent rise in five years.\"},\n{\"label\": \"total fertility rate\", \"value\": \"4.3 children per"
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 2,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 32.7392,
+      "output": {
+        "summary": "Education is a key challenge in Timor-Leste, with a focus on promoting rural-urban migration and providing skills for the next generation. The country aims to be a democratic society with adequate food, shelter, and clothing for all people.",
+        "themes": [
+          "education",
+          "inequality"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Number of students in a classroom",
+            "value": "70",
+            "unit": "students",
+            "year": null,
+            "pdf_page": 74,
+            "evidence": "Portuguese language class at Nicolau Lobato Secondary School"
+          }
+        ]
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 2,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 80.8205,
+      "output": {
+        "raw_response": "{\"summary\": \"The report highlights youth well-being in Timor-Leste, with 27% requiring special attention. Youth face challenges in physical and psychological health, but many cope with stress and maintain confidence.\", \"themes\": [\"education\", \"health\", \"inequality\"], \"numerical_facts\": [\n    {\"label\": \"Distribution of Youth, by Overall Sufficiency in Well-Being\", \"value\": \"9.6%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"Almost 10 percent of youth are moderately or extensively deprived in overall well-being.\"},\n    {\"label\": \"Distribution of Youth, by Overall Sufficiency in Well-Being\", \"value\": \"16.8%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"Moderately deprived in overall well-being.\"},\n    {\"label\": \"Distribution of Youth, by Overall Sufficiency in Well-Being\", \"value\": \"72.6%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"Extensively satisfied in overall well-being.\"},\n    {\"label\": \"Distribution of Youth, by Overall Sufficiency in Well-Being\", \"value\": \"0.9%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"Extensively insufficient in overall well-being.\"},\n    {\"label\": \"Distribution of Youth, by Overall Sufficiency in Well-Being\", \"value\": \"0.1%\", \"unit\": \"%\", \"year\": null, \"pdf_page\": 34"
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 2,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 86.949,
+      "output": {
+        "raw_response": "{\"summary\": \"Timor-Leste has a young population with a median age of 17.4 years, and is experiencing a demographic transition. The country aims to reap the benefits of this transition through targeted policies.\", \"themes\": [\"education\", \"health\", \"inequality\", \"economy\", \"gender\", \"climate\"], \"numerical_facts\": [\n    {\"label\": \"median age\", \"value\": \"17.4 years\", \"unit\": \"years\", \"year\": \"2015\", \"pdf_page\": 7, \"evidence\": \"The population of Timor-Leste is one of the youngest in the Asia and Pacific region.\"},\n    {\"label\": \"population growth rate\", \"value\": \"2.6%\", \"unit\": \"%\", \"year\": \"2010-2015\", \"pdf_page\": 24, \"evidence\": \"The annual population growth rates have been high since independence.\"},\n    {\"label\": \"total population\", \"value\": \"1,183,643\", \"unit\": \"people\", \"year\": \"2015\", \"pdf_page\": 7, \"evidence\": \"The most recent census recorded the total population at 1,183,643 in 2015.\"},\n    {\"label\": \"increase in population\", \"value\": \"117,000\", \"unit\": \"people\", \"year\": \"2005-2010\", \"pdf_page\": 24, \"evidence\": \"This was an increase of 117,000 over 2010, representing a 10 percent rise in five years.\"},\n    {\"label\": \"total fertility rate (2030)\", \"value\": \""
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 3,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 43.2997,
+      "output": {
+        "summary": "Education is a challenge in Timor-Leste, with rural-urban migration drawing creative young people away from their communities. The country aims to be a democratic society with adequate food, shelter, and clothing for all by 2020.",
+        "themes": [
+          "education",
+          "inequality"
+        ],
+        "numerical_facts": [
+          {
+            "label": "Number of students in a classroom",
+            "value": "70",
+            "unit": "students",
+            "year": "null",
+            "pdf_page": 74,
+            "evidence": "Teaching Portuguese to students at Nicolau Lobato Secondary School."
+          },
+          {
+            "label": "Number of centres providing boarding for full-time students",
+            "value": "47",
+            "unit": "centres",
+            "year": "null",
+            "pdf_page": 76,
+            "evidence": "Covering all districts."
+          }
+        ]
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 3,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 70.4114,
+      "output": {
+        "raw_response": "{\"summary\": \"The report highlights the well-being of Timor-Leste's youth, with 27% requiring special attention due to moderate or extensive deprivation. Most youth maintain satisfactory physical health, but experience stress and emotional challenges.\", \"themes\": [\"education\", \"health\", \"inequality\"], \"numerical_facts\": [\n{\"label\": \"income and perceived economic well-being\", \"value\": \"9.6%\", \"unit\": \"percent\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"Moderate sufficiency in overall well-being\"},\n{\"label\": \"number of domains in which a person is satisfied\", \"value\": \"0-8\", \"unit\": \"domains\", \"year\": null, \"pdf_page\": 32, \"evidence\": \"The number of domains in which a person is satisfied (which may range from 0 to 8)\"},\n{\"label\": \"number of people dependent on household income\", \"value\": \"not_reported\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 33, \"evidence\": \"How many people in your household are dependent on your income?\"},\n{\"label\": \"percentage of youth with moderate or extensive deprivation\", \"value\": \"10%\", \"unit\": \"percent\", \"year\": null, \"pdf_page\": 35, \"evidence\": \"Almost 10 percent of youth are moderately or extensively deprived in overall well-being\"},\n{\"label\": \"percentage of youth requiring special attention\", \"value\": \"27%\", \"unit\": \"percent\", \"year\": null, \"pdf_page\": 34, \"evidence\": \"This means"
+      }
+    },
+    {
+      "model": "llama3.2",
+      "run": 3,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 81.4686,
+      "output": {
+        "raw_response": "{\"summary\": \"Timor-Leste has a young population with a median age of 17.4 years, and its population is growing at a high rate of 2.6% per year. The country is undergoing a demographic transition, with declining birth rates and increasing life expectancy. Investments in family planning, education, and the economy are expected to lead to a minimum replacement fertility rate of 2.1 children per woman by 2048.\", \"themes\": [\"education\", \"health\", \"inequality\", \"economy\", \"gender\"], \"numerical_facts\": [\n    {\"label\": \"median age\", \"value\": \"17.4 years\", \"unit\": \"years\", \"year\": null, \"pdf_page\": 7, \"evidence\": \"The population of Timor-Leste is one of the youngest in the Asia and Pacific region.\"},\n    {\"label\": \"population growth rate\", \"value\": \"2.6%\", \"unit\": \"% per year\", \"year\": null, \"pdf_page\": 7, \"evidence\": \"The annual population growth rates have been high since independence.\"},\n    {\"label\": \"total population (2015)\", \"value\": \"1,183,643\", \"unit\": \"people\", \"year\": \"2015\", \"pdf_page\": 7, \"evidence\": \"The most recent census recorded the total population at 1,183,643 in 2015.\"},\n    {\"label\": \"population increase (2000-2015)\", \"value\": \"117,000\", \"unit\": \"people\", \"year\": null, \"pdf_page\": 7, \"e"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 1,
+      "chunk_id": "chapter_4_001",
+      "json_valid": false,
+      "elapsed_seconds": 238.8918,
+      "output": {
+        "raw_response": "{\n \"summary\": \"Timor-Leste's education system is evolving with a focus on skills for rural livelihood, non-formal courses like Science of Life Systems offer English literacy and computer training aiming at reducing urban migration by enhancing employability. However, agricultural graduates face limited job opportunities.\",\n \"themes\": [\"education\", \"inequality\"],\n \"numerical_facts\": [\n  {\"label\": \"students taught per day\", \"value\": 70, \"unit\": \"not_reported\", \"year\": null, \"pdf_page\": 87, \"evidence\": \"Jose Araújo teaches Portuguese to 70 students.\"},\n  {\"label\": \"centres offering non-formal education\", \"value\": 47, \"unit\": \"not_reported\", \"year\": null, \"pdf_page\": 89, \"evidence\": \"There are provision for boarding at the 47 centers covering all districts.\"},\n  {\"label\": \"age range of non-formal education learners\", \"value\": \"16 to 25 years old\", \"unit\": \"not_reported\", \"year\": null, \"pdf_page\": 89, \"evidence\": \"The main skills taught are for people aged between 16 and 25.\"},\n  {\"label\": \"skills required by the World Economic Forum\", \"value\": \"16 types of skills and qualities\", \"unit\": \"not_reported\", \"year\": null"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 1,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 208.223,
+      "output": {
+        "raw_response": "{\n  \"summary\": \"Timor-Leste's Youth Well-Being Survey reveals that nearly 10% (27%) of young people experience moderate to extensive deprivation across various well-being domains, including physical health and emotional resilience. Despite this, a majority maintain satisfactory levels in these areas.\",\n  \"themes\": [\"education\", \"health\", \"inequality\", \"gender\"],\n  \"numerical_facts\": [\n    {\n      \"label\": \"youth deprivation rate\",\n      \"value\": \"10% (27%)\",\n      \"unit\": \"percentage of youth\",\n      \"year\": null,\n      \"pdf_page\": 34,\n      \"evidence\": \"Almost 10 percent of the population is moderately or extensively deprived in overall well-being.\"\n    },\n    {\n      \"label\": \"stress due to financial pressure\",\n      \"value\": \"80% (men: 83%, women: 76%)\",\n      \"unit\": \"percentage of youth experiencing stress\",\n      \"year\": null,\n      \"pdf_page\": 42,\n      \"evidence\": \"Stress because of financial pressure is experienced by 80 percent of the population.\"\n    },\n    {\n      \"label\": \"stress due to sickness in family\",\n      \"value\": \"61% (men: 63%, women: 60%)\",\n"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 1,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 202.5606,
+      "output": {
+        "raw_response": "{\"summary\": \"Timor-Leste's youth population is one of Asia and Pacific region's youngest demographics (median age: 17.4 years). The country, ranking as the world's 15th youngest nation behind African nations and Afghanistan, faces high annual growth rates since independence.\", \"themes\": [\"education\", \"health\", \"inequality\", \"economy\", \"gender\"], \"numerical_facts\": [{\"label\": \"median age\", \"value\": 17.4, \"unit\": \"years\", \"year\": null, \"pdf_page\": 20, \"evidence\": \"The population of Timor-Leste is one of the youngest in Asia and Pacific region.\"}, {\"label\": \"population growth rate (annual)\", \"value\": 2.6, \"unit\": \"%\", \"year\": null, \"pdf_page\": 35, \"evidence\": \"The annual population growth rates have been high since independence, at 2.6 per cent between 2010 and 2015.\"}, {\"label\": \"total fertility rate (2015)\", \"value\": 4.3, \"unit\": \"children/woman\", \"year\": 2015, \"pdf_page\": 37, \"evidence\": \"The total fertility rate in Timor-Leste was reported as high at 4.3 children per woman.\"}, {\"label\": \"total fertility rate (projected for 2030)\","
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 2,
+      "chunk_id": "chapter_4_001",
+      "json_valid": false,
+      "elapsed_seconds": 137.4969,
+      "output": {
+        "raw_response": "{\n \"summary\": \"Timor-Leste's education system is evolving with a focus on non-formal, practical skills like English, computer literacy, communication, personal development, and agricultural extension work aimed at reducing rural-urban migration. The country plans to become prosperous by 2020, ensuring all citizens are educated, healthy, skilled, and actively participate in societal growth.\",\n \"themes\": [\"education\", \"inequality\", \"employment\"],\n \"numerical_facts\": [\n   {\"label\": \"number of students taught by Jose Araújo\", \"value\": 70, \"unit\": \"students\", \"year\": null, \"pdf_page\": 87, \"evidence\": \"Jose Araújo teaches Portuguese to 70 students.\"},\n   {\"label\": \"age range for Science of Life Systems' target group\", \"value\": \"16-25 years old\", \"unit\": \"years old\", \"year\": null, \"pdf_page\": 89, \"evidence\": \"Science of Life Systems targets learners aged between 16 and 25.\"},\n   {\"label\": \"duration for full-time course at Science of Life Systems\", \"value\": \"two years\", \"unit\": \"years\", \"year\": null, \"pdf_page\": 89, \"evidence\": \"Most enrol in a two-year full-time course.\"},\n   {\"label\": \"number of centres providing boarding for Science of Life"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 2,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 125.5881,
+      "output": {
+        "raw_response": "{\n  \"summary\": \"Timor-Leste's Youth Well-Being Survey reveals that nearly 10% (27%) of young people are moderately or extensively deprived overall, with significant stress due to financial pressure and domestic violence affecting some. Despite these challenges, the majority maintain satisfactory physical health.\",\n  \"themes\": [\"health\", \"inequality\", \"gender\"],\n  \"numerical_facts\": [\n    {\n      \"label\": \"overall well-being deprivation rate\",\n      \"value\": \"10% (27%)\",\n      \"unit\": \"percentage\",\n      \"year\": null,\n      \"pdf_page\": 35,\n      \"evidence\": \"almost 10 percent of youth are moderately or extensively deprived in overall well-being\"\n    },\n    {\n      \"label\": \"stress due to financial pressure\",\n      \"value\": \"80% (men: 83%, women: 76%)\",\n      \"unit\": \"percentage\",\n      \"year\": null,\n      \"pdf_page\": 42,\n      \"evidence\": \"experienced by 80 percent of youth\"\n    },\n    {\n      \"label\": \"stress due to sickness in family\",\n      \"value\": \"61% (men: 63%, women: 60%)\",\n      \"unit\": \"percentage\",\n      \"year\": null,"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 2,
+      "chunk_id": "chapter_2_001",
+      "json_valid": false,
+      "elapsed_seconds": 102.9592,
+      "output": {
+        "raw_response": "{\"summary\": \"Timor-Leste's youth population is one of Asia and Pacific region's youngest at median age 17.4 years (UN Report, 2018). The country faces high annual growth rates since independence; however, policy investments in family planning could lower fertility from 4.3 to under 2 by mid-century.\", \"themes\": [\"education\", \"health\", \"inequality\"], \"numerical_facts\": [{\"label\": \"median age\", \"value\": \"17.4 years\", \"unit\": \"years\", \"year\": null, \"pdf_page\": 20, \"evidence\": \"The median age of Timor-Leste's population is one of the youngest in Asia and Pacific region.\"}, {\"label\": \"population growth rate (annual)\", \"value\": \"10 percent rise\", \"unit\": \"% increase over five years\", \"year\": null, \"pdf_page\": 24, \"evidence\": \"The annual population growth rates have been high since independence in Timor-Leste.\"}, {\"label\": \"total fertility rate (2015)\", \"value\": \"4.3 children per woman\", \"unit\": \"children/woman\", \"year\": 2015, \"pdf_page\": 28, \"evidence\": \"In Timor-Leste's population in 2015.\"}, {\"label\": \"total fertility rate (projected for 2030)\", \"value\": \"3.2 children"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 3,
+      "chunk_id": "chapter_4_001",
+      "json_valid": true,
+      "elapsed_seconds": 100.1615,
+      "output": {
+        "summary": "Timor-Leste's education system is evolving, with a focus on non-formal learning for youth aged 16-25 years old through Science of Life Systems initiative offering skills like English and computer literacy. The country plans to be prosperous by 2020 with all citizens having access to adequate food, shelter, clothing, education, healthcare, employment opportunities without discrimination.",
+        "themes": [
+          "education",
+          "gender",
+          "inequality",
+          "employment"
+        ],
+        "numerical_facts": [
+          {
+            "label": "students taught per day by Jose Araújo",
+            "value": 70,
+            "unit": "individual students or not_reported",
+            "year": null,
+            "pdf_page": 87,
+            "evidence": "Jose Araújo teaches Portuguese to 70 students in a classroom."
+          },
+          {
+            "label": "number of centers for Science of Life Systems initiative",
+            "value": 47,
+            "unit": "centers or not_reported",
+            "year": null,
+            "pdf_page": 89,
+            "evidence": "The main skills taught are English, computer literacy (including touch-typing), communication skills and personal development skills at the 47 centers covering all districts."
+          }
+        ]
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 3,
+      "chunk_id": "chapter_2_004",
+      "json_valid": false,
+      "elapsed_seconds": 157.3036,
+      "output": {
+        "raw_response": "{\n  \"summary\": \"Timor-Leste's Youth Well-Being Survey reveals that nearly 10% (27%) of young people are moderately or extensively deprived overall, with significant stress due to financial pressure and domestic violence affecting some. Despite this, the majority maintain satisfactory physical health.\",\n  \"themes\": [\"health\", \"inequality\", \"gender\"],\n  \"numerical_facts\": [\n    {\n      \"label\": \"overall well-being deprivation rate\",\n      \"value\": \"10% (27%)\",\n      \"unit\": \"percentage\",\n      \"year\": null,\n      \"pdf_page\": 34,\n      \"evidence\": \"Almost 10 percent of youth are moderately or extensively deprived in overall well-being.\"\n    },\n    {\n      \"label\": \"stress due to financial pressure\",\n      \"value\": \"80% (men: 83%, women: 76%)\",\n      \"unit\": \"percentage\",\n      \"year\": null,\n      \"pdf_page\": 42,\n      \"evidence\": \"Stress because of financial pressure is experienced by 80 percent of youth.\"\n    },\n    {\n      \"label\": \"stress due to sickness in family\",\n      \"value\": \"61% (men: 63%, women: 60%)\",\n      \"unit\": \"percentage\",\n      \"year\":"
+      }
+    },
+    {
+      "model": "phi3:mini",
+      "run": 3,
+      "chunk_id": "chapter_2_001",
+      "json_valid": true,
+      "elapsed_seconds": 110.2148,
+      "output": {
+        "summary": "Timor-Leste's youth population is one of Asia and Pacific region's youngest demographics (median age: 17.4 years). The country, ranking as the world's 15th youngest nation behind African nations and Afghanistan, has a significant portion below 35 years old at about 74% based on census data from 2015.",
+        "themes": [
+          "education",
+          "health"
+        ],
+        "numerical_facts": [
+          {
+            "label": "median age",
+            "value": "17.4",
+            "unit": "years",
+            "year": null,
+            "pdf_page": 36,
+            "evidence": "The country is one of the youngest in Asia and Pacific region."
+          },
+          {
+            "label": "percentage below 35 years old",
+            "value": "74%",
+            "unit": "%",
+            "year": null,
+            "pdf_page": 38,
+            "evidence": "According to census data from 2015."
+          }
+        ]
+      }
+    }
+  ]
+}
