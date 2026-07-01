@@ -7,8 +7,6 @@ __pycache__/
 htmlcov/
 .streamlit/
 outputs/cache/
-outputs/figures/*.html
-outputs/figures/*.png
 *.tmp
 *.temp
 ~$*

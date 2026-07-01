@@ -92,7 +92,7 @@ the full runtime again.
 ## Launch the interactive dashboard
 
 ```powershell
- py -m streamlit run app.py
+ py -m streamlit run dashboard.py
 ```
 
 The dashboard has five pages: Overview; Themes; Indicators and trends;
@@ -127,3 +127,40 @@ pytest
 - `outputs/results`: summaries, themes, indicators, trends, strengths/challenges,
   evaluations, and reproducibility manifests.
 - `outputs/cache`: resumable Ollama responses (not committed by default).
+
+## Repository structure
+
+```text
+.
+|-- dashboard.py                 # Interactive Streamlit dashboard
+|-- src/development_intelligence # Extraction and analysis package
+|-- tests                        # Automated tests
+|-- outputs
+|   |-- processed                # Deterministic extraction artifacts
+|   |-- results                  # Saved analysis and evaluation results
+|   `-- figures                  # Dashboard charts saved as PNG images
+|-- timor-Leste.pdf              # Source development report
+|-- pyproject.toml
+|-- requirements.txt
+|-- README.md
+`-- .gitignore
+```
+
+Every chart displayed by the dashboard is automatically saved to
+`outputs/figures/` as a high-resolution PNG image. Charts are generated and
+saved when their corresponding dashboard page is opened and rendered; they are
+not all created immediately when the dashboard starts. These files display
+directly on GitHub and can be committed with the rest of the project.
+
+## Evidence and reproducibility
+
+Outputs retain PDF page references and, where applicable, source excerpts and
+model lineage. Raw model responses are preserved alongside validated results so
+that parsing and evaluation decisions can be audited. Run settings and model
+metadata are recorded in `outputs/results/run_manifest.json`.
+
+## Data source
+
+United Nations Development Programme, *Timor-Leste National Human Development
+Report 2018: Planning the Opportunities for a Youthful Population*.
+

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -20,6 +21,7 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parent
 RESULTS = ROOT / "outputs" / "results"
 PROCESSED = ROOT / "outputs" / "processed"
+FIGURES = ROOT / "outputs" / "figures"
 
 COLORS = {
     "navy": "#17324D",
@@ -249,7 +251,20 @@ def chart_layout(
 
 
 def show_plot(figure: go.Figure) -> None:
-    """Render Plotly charts consistently in Streamlit."""
+    """Save a high-resolution PNG and render a Plotly chart in Streamlit."""
+    FIGURES.mkdir(parents=True, exist_ok=True)
+
+    title = figure.layout.title.text or "dashboard-chart"
+    title = re.sub(r"<[^>]+>", "", str(title))
+    slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-") or "dashboard-chart"
+    content_hash = hashlib.sha256(figure.to_json().encode("utf-8")).hexdigest()[:8]
+    figure.write_image(
+        FIGURES / f"{slug}-{content_hash}.png",
+        width=1600,
+        height=int(figure.layout.height or 900),
+        scale=2,
+    )
+
     st.plotly_chart(
         figure,
         width="stretch",
